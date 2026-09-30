@@ -2,5 +2,3 @@ https://t.me/socks?server=8.216.18.55&port=8888&user=123456&pass=654321
 https://t.me/socks?server=8.216.5.89&port=8888&user=123456&pass=654321
 https://t.me/socks?server=43.155.143.227&port=1080
 https://t.me/socks?server=8.217.224.41&port=1081
-https://t.me/socks?server=157.245.129.129&port=10000
-https://t.me/socks?server=8.210.127.52&port=1080
