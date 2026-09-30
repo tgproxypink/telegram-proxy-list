@@ -6,5 +6,4 @@ https://t.me/socks?server=8.210.127.52&port=1080
 https://t.me/socks?server=68.183.27.147&port=10000
 https://t.me/socks?server=43.198.26.236&port=1080
 https://t.me/socks?server=159.89.51.75&port=10000
-https://t.me/socks?server=85.209.156.148&port=1080
 https://t.me/socks?server=154.201.71.12&port=2080
