@@ -1,8 +1,4 @@
+https://t.me/socks?server=8.210.127.52&port=1080
 https://t.me/socks?server=8.216.18.55&port=8888&user=123456&pass=654321
 https://t.me/socks?server=8.216.5.89&port=8888&user=123456&pass=654321
-https://t.me/socks?server=8.210.127.52&port=1080
 https://t.me/socks?server=43.155.143.227&port=1080
-https://t.me/socks?server=8.218.189.99&port=3060&user=123&pass=123
-https://t.me/socks?server=8.217.208.190&port=3060&user=123&pass=123
-https://t.me/socks?server=8.218.240.247&port=3060&user=123&pass=123
-https://t.me/socks?server=8.217.213.161&port=3060&user=123&pass=123
