@@ -6,7 +6,7 @@ Working proxies for Telegram, **verified with a real connection to Telegram** an
 
 **Full list with filters, QR codes and setup guides → [tgproxy.pink](https://tgproxy.pink/?utm_source=github&utm_medium=readme&utm_campaign=telegram-proxy-list)**
 
-_Updated 2026-10-02 14:07 UTC · 500 proxies from 23 countries · ping measured from Moscow_
+_Updated 2026-10-02 15:08 UTC · 500 proxies from 23 countries · ping measured from Moscow_
 
 ## How to connect
 
@@ -18,106 +18,106 @@ _Updated 2026-10-02 14:07 UTC · 500 proxies from 23 countries · ping measured 
 
 | Country | Type | Ping | Checked (UTC) | Link |
 |---|---|---|---|---|
-| 🇩🇪 Germany | MTProto · Fake TLS | 110 ms | 13:23 | [Connect](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972) |
-| 🇨🇦 Canada | MTProto | 64 ms | 13:23 | [Connect](https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 🇵🇱 Poland | MTProto · Fake TLS | 96 ms | 13:21 | [Connect](https://t.me/proxy?server=ya.zaebalsya.uk&port=8443&secret=ee1104a80139ca104cdb1184484edf78c37275737369616e2d616e696d616c732e7275) |
-| 🇫🇷 France | MTProto | 61 ms | 13:21 | [Connect](https://t.me/proxy?server=free.tprox.net&port=443&secret=dd583de2881533667b60a718e9bf8049e9) |
-| 🇳🇱 Netherlands | MTProto | 53 ms | 13:21 | [Connect](https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54) |
-| 🇳🇱 Netherlands | MTProto | 59 ms | 13:21 | [Connect](https://t.me/proxy?server=51.158.201.116&port=443&secret=dd083fe0c452e2407d835537872f097c54) |
-| 🇳🇱 Netherlands | MTProto | 50 ms | 13:21 | [Connect](https://t.me/proxy?server=51.158.202.129&port=443&secret=083fe0c452e2407d835537872f097c54) |
-| 🇷🇺 Russia | MTProto · Fake TLS | 174 ms | 13:21 | [Connect](https://t.me/proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c) |
-| 🇨🇦 Canada | MTProto | 98 ms | 13:21 | [Connect](https://t.me/proxy?server=help.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 🇨🇦 Canada | MTProto | 72 ms | 13:21 | [Connect](https://t.me/proxy?server=ssh.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 🇷🇺 Russia | MTProto | 46 ms | 13:21 | [Connect](https://t.me/proxy?server=185.86.145.173&port=443&secret=dd2f22523a9fdd8fa67e391a31db65b614) |
-| 🇷🇺 Russia | MTProto | 49 ms | 13:21 | [Connect](https://t.me/proxy?server=85.192.32.4&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed) |
-| 🇩🇪 Germany | MTProto | 59 ms | 13:21 | [Connect](https://t.me/proxy?server=45.131.214.12&port=4443&secret=be90375811b61f5a4c49984e2fdeeba2) |
-| 🇷🇺 Russia | MTProto | 73 ms | 13:21 | [Connect](https://t.me/proxy?server=nngo.cc&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed) |
-| 🇮🇷 Iran | MTProto | 56 ms | 13:21 | [Connect](https://t.me/proxy?server=haji.bia-hastam.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09) |
-| 🇨🇦 Canada | MTProto | 71 ms | 13:23 | [Connect](https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 🇷🇺 Russia | MTProto | 120 ms | 13:21 | [Connect](https://t.me/proxy?server=161.104.106.60&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d) |
-| 🇷🇺 Russia | MTProto · Fake TLS | 190 ms | 13:21 | [Connect](https://t.me/proxy?server=mesh.eeluma.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267) |
-| 🇷🇺 Russia | MTProto · Fake TLS | 189 ms | 13:23 | [Connect](https://t.me/proxy?server=media6.happtg.org&port=443&secret=ee7391242569590e01416101927d38b565686f66662e7275) |
-| 🇷🇺 Russia | MTProto | 47 ms | 13:21 | [Connect](https://t.me/proxy?server=telegram.monkeyvillage.pro&port=443&secret=2f22523a9fdd8fa67e391a31db65b614) |
-| 🇷🇺 Russia | MTProto · Fake TLS | 189 ms | 13:23 | [Connect](https://t.me/proxy?server=cdn6.cdnwave.org&port=443&secret=ee7391242569590e01416101927d38b565686f66662e7275) |
-| 🇲🇩 Moldova | MTProto | 103 ms | 13:21 | [Connect](https://t.me/proxy?server=guard-1.secureservice.top&port=443&secret=2181b73902be15376b13b686c2883387) |
-| 🇷🇺 Russia | MTProto · Fake TLS | 189 ms | 13:23 | [Connect](https://t.me/proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e686f66662e7275) |
-| 🇷🇺 Russia | MTProto | 60 ms | 13:22 | [Connect](https://t.me/proxy?server=84.23.52.184&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed) |
-| 🇨🇦 Canada | MTProto | 65 ms | 13:21 | [Connect](https://t.me/proxy?server=asemoonedarya.ir&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
-| 🇪🇪 Estonia | MTProto | 57 ms | 13:21 | [Connect](https://t.me/proxy?server=144.31.178.192&port=995&secret=dd7b74783ddade3cf358da69e493b83d05) |
-| 🇫🇮 Finland | MTProto · Fake TLS | 95 ms | 13:21 | [Connect](https://t.me/proxy?server=13.143.132.113&port=2083&secret=ee0314a91166489d1779b1515c34eb2a3e7777772e636c6f7564666c6172652e636f6d) |
-| 🇩🇪 Germany | MTProto | 55 ms | 13:21 | [Connect](https://t.me/proxy?server=5.45.184.15&port=443&secret=dd3162bd78edf5bf84a9a647e37f5449cf) |
-| 🇸🇬 Singapore | MTProto · Fake TLS | 598 ms | 13:21 | [Connect](https://t.me/proxy?server=101.32.168.198&port=8443&secret=ee7cf42ae615eb30204898c156c63f2163646f7579696e2e636f6d) |
-| 🇸🇬 Singapore | MTProto · Fake TLS | 574 ms | 13:21 | [Connect](https://t.me/proxy?server=a.tgvpns.site&port=8443&secret=ee7cf42ae615eb30204898c156c63f2163646f7579696e2e636f6d) |
-| 🇷🇺 Russia | MTProto · Fake TLS | 190 ms | 13:23 | [Connect](https://t.me/proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e686f66662e7275) |
-| 🇷🇺 Russia | MTProto · Fake TLS | 245 ms | 13:23 | [Connect](https://t.me/proxy?server=82.202.238.110&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275) |
-| 🇫🇷 France | MTProto · Fake TLS | 137 ms | 13:21 | [Connect](https://t.me/proxy?server=app.futurestrade.wiki&port=443&secret=eed093d11c950817ff1c54b9d1812031e670782e63727970746f637572656e63792e77696b69) |
-| 🇫🇷 France | MTProto · Fake TLS | 151 ms | 13:21 | [Connect](https://t.me/proxy?server=api.cryptocurency.wiki&port=443&secret=eed093d11c950817ff1c54b9d1812031e670782e63727970746f637572656e63792e77696b69) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 171 ms | 13:23 | [Connect](https://t.me/proxy?server=googel.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 115 ms | 13:23 | [Connect](https://t.me/proxy?server=alo.clare-flare-ow.store&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 133 ms | 13:23 | [Connect](https://t.me/proxy?server=googel.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇩🇪 Germany | MTProto · Fake TLS | 384 ms | 13:21 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
-| 🇮🇷 Iran | MTProto · Fake TLS | 113 ms | 13:22 | [Connect](https://t.me/proxy?server=87.248.129.135&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 🇺🇸 United States | MTProto | 297 ms | 13:21 | [Connect](https://t.me/proxy?server=172.86.118.190&port=443&secret=a5026141feabb864f79229eba9458c13) |
-| 🇳🇱 Netherlands | MTProto · Fake TLS | 128 ms | 13:21 | [Connect](https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 114 ms | 13:21 | [Connect](https://t.me/proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 130 ms | 13:21 | [Connect](https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 116 ms | 13:21 | [Connect](https://t.me/proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 184 ms | 13:21 | [Connect](https://t.me/proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 122 ms | 13:21 | [Connect](https://t.me/proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 129 ms | 13:21 | [Connect](https://t.me/proxy?server=172.65.119.133&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 162 ms | 13:21 | [Connect](https://t.me/proxy?server=172.65.111.24&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇩🇰 Denmark | MTProto · Fake TLS | 147 ms | 13:23 | [Connect](https://t.me/proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d) |
-| 🇸🇬 Singapore | MTProto · Fake TLS | 127 ms | 13:23 | [Connect](https://t.me/proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174) |
-| 🇨🇦 Canada | MTProto · Fake TLS | 593 ms | 13:23 | [Connect](https://t.me/proxy?server=alo.clare-flare-ow.store.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 🇺🇸 United States | MTProto · Fake TLS | 153 ms | 13:23 | [Connect](https://t.me/proxy?server=alpha.lite64.xyz&port=443&secret=eeb02d231f3564160c8f60dae3578b31126c69746536342e73697465) |
-| 🇷🇺 Russia | MTProto | 226 ms | 13:21 | [Connect](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87) |
-| 🇺🇸 United States | MTProto · Fake TLS | 134 ms | 13:23 | [Connect](https://t.me/proxy?server=noble.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 149 ms | 13:23 | [Connect](https://t.me/proxy?server=shadow.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 130 ms | 13:23 | [Connect](https://t.me/proxy?server=ember.lite64.top&port=443&secret=eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 134 ms | 13:23 | [Connect](https://t.me/proxy?server=iris.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 139 ms | 13:23 | [Connect](https://t.me/proxy?server=rocket.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 151 ms | 13:23 | [Connect](https://t.me/proxy?server=saturn.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 136 ms | 13:23 | [Connect](https://t.me/proxy?server=quartz.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 152 ms | 13:23 | [Connect](https://t.me/proxy?server=mirage.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 138 ms | 13:23 | [Connect](https://t.me/proxy?server=p.lite64.top&port=443&secret=ee54e5e2a8c284eecb495b3f5a2f8bd3106c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 132 ms | 13:23 | [Connect](https://t.me/proxy?server=dawn.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 132 ms | 13:23 | [Connect](https://t.me/proxy?server=prism.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 152 ms | 13:21 | [Connect](https://t.me/proxy?server=pearl.lite64.click&port=443&secret=ee9b9cda75bc3db77178818587580a9e846c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 136 ms | 13:23 | [Connect](https://t.me/proxy?server=celeste-monarch.velvetoak.work&port=443&secret=ee5758acf633824677e2a963f7f04ae39e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 135 ms | 13:21 | [Connect](https://t.me/proxy?server=p.lite64.top&port=443&secret=eef50c455f4d9d60ff50889cc08a9044596c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 140 ms | 13:21 | [Connect](https://t.me/proxy?server=stone.lite64.click&port=443&secret=ee027f3795dea28068179f84d8c2985ac96c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 142 ms | 13:23 | [Connect](https://t.me/proxy?server=alpha.lite64.top&port=443&secret=eeb02d231f3564160c8f60dae3578b31126c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 127 ms | 13:21 | [Connect](https://t.me/proxy?server=falcon.lite64.top&port=443&secret=ee7bdcba40ac746e31201b59bc8eb5f9ae6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 137 ms | 13:21 | [Connect](https://t.me/proxy?server=silver.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇷🇺 Russia | MTProto · Fake TLS | 96 ms | 13:23 | [Connect](https://t.me/proxy?server=45.159.210.88&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275) |
-| 🇺🇸 United States | MTProto · Fake TLS | 135 ms | 13:21 | [Connect](https://t.me/proxy?server=falcon.lite64.xyz&port=443&secret=ee7bdcba40ac746e31201b59bc8eb5f9ae6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 142 ms | 13:21 | [Connect](https://t.me/proxy?server=p.lite64.click&port=443&secret=ee0d0e1a1ade866235cf8dea2a1e83708e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 139 ms | 13:21 | [Connect](https://t.me/proxy?server=ember.lite64.xyz&port=443&secret=eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 156 ms | 13:21 | [Connect](https://t.me/proxy?server=celeste-monarch.driftquill.click&port=443&secret=ee5758acf633824677e2a963f7f04ae39e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 151 ms | 13:21 | [Connect](https://t.me/proxy?server=ion.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇳🇱 Netherlands | MTProto · Fake TLS | 120 ms | 13:21 | [Connect](https://t.me/proxy?server=176.98.182.60&port=7443&secret=ee2d954feb566b43c70d4b228e1fc0336b74672e6c756d61787664732e6f7267) |
-| 🇵🇱 Poland | MTProto · Fake TLS | 118 ms | 13:21 | [Connect](https://t.me/proxy?server=95.85.229.133&port=8443&secret=ee41e92aedf3d52bd47aa08c1c8faedc3e7777772e796f74612e7275) |
-| 🇺🇸 United States | MTProto · Fake TLS | 165 ms | 13:21 | [Connect](https://t.me/proxy?server=solar.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 137 ms | 13:21 | [Connect](https://t.me/proxy?server=dune.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 135 ms | 13:21 | [Connect](https://t.me/proxy?server=quasar.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 139 ms | 13:21 | [Connect](https://t.me/proxy?server=vertex.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 148 ms | 13:21 | [Connect](https://t.me/proxy?server=flint.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 151 ms | 13:21 | [Connect](https://t.me/proxy?server=forest.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 128 ms | 13:21 | [Connect](https://t.me/proxy?server=apollo.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 137 ms | 13:21 | [Connect](https://t.me/proxy?server=swift.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 135 ms | 13:21 | [Connect](https://t.me/proxy?server=crystal.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇷🇺 Russia | MTProto · Fake TLS | 101 ms | 13:21 | [Connect](https://t.me/proxy?server=shared3.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275) |
-| 🇺🇸 United States | MTProto · Fake TLS | 141 ms | 13:21 | [Connect](https://t.me/proxy?server=sierra.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
-| 🇩🇪 Germany | MTProto · Fake TLS | 111 ms | 13:21 | [Connect](https://t.me/proxy?server=49.13.227.72&port=443&secret=ee791615d7f7c6ae6159ea3c2adf980c07306430653064306530723065307830653073307a3065307230666430632e636f2e756b) |
-| 🇺🇸 United States | MTProto · Fake TLS | 134 ms | 13:21 | [Connect](https://t.me/proxy?server=p.lite64.click&port=443&secret=eee269911715c9ef9f821d02314e6627d96c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 153 ms | 13:21 | [Connect](https://t.me/proxy?server=p.lite64.xyz&port=443&secret=ee8f2e46db5c058508697023181408edfe6c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 144 ms | 13:21 | [Connect](https://t.me/proxy?server=p.lite64.top&port=443&secret=eee3dfe8e59202ba62b5da063ddddaa8106c69746536342e73697465) |
-| 🇺🇸 United States | MTProto · Fake TLS | 124 ms | 13:21 | [Connect](https://t.me/proxy?server=p.lite64.xyz&port=443&secret=ee5b7d8506708660cf5e4bd70d0ccc91d26c69746536342e73697465) |
-| 🇷🇺 Russia | MTProto | 126 ms | 13:21 | [Connect](https://t.me/proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d) |
-| 🇮🇷 Iran | MTProto | 38 ms | 13:21 | [Connect](https://t.me/proxy?server=91.234.147.13&port=2020&secret=00000000000000000000000000000000) |
-| 🇷🇺 Russia | MTProto | 48 ms | 13:21 | [Connect](https://t.me/proxy?server=185.86.147.60&port=443&secret=2f22523a9fdd8fa67e391a31db65b614) |
-| 🇮🇷 Iran | MTProto | 52 ms | 13:21 | [Connect](https://t.me/proxy?server=94.184.39.7&port=2020&secret=dd00000000000000000000000000000000) |
-| 🇫🇮 Finland | MTProto | 55 ms | 13:21 | [Connect](https://t.me/proxy?server=135.181.129.164&port=443&secret=dd79e7010200010007f0030386e24c3add) |
+| 🇩🇪 Germany | MTProto · Fake TLS | 109 ms | 14:27 | [Connect](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972) |
+| 🇨🇦 Canada | MTProto | 77 ms | 14:27 | [Connect](https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 🇵🇱 Poland | MTProto · Fake TLS | 69 ms | 14:24 | [Connect](https://t.me/proxy?server=ya.zaebalsya.uk&port=8443&secret=ee1104a80139ca104cdb1184484edf78c37275737369616e2d616e696d616c732e7275) |
+| 🇫🇷 France | MTProto | 60 ms | 14:24 | [Connect](https://t.me/proxy?server=free.tprox.net&port=443&secret=dd583de2881533667b60a718e9bf8049e9) |
+| 🇳🇱 Netherlands | MTProto | 50 ms | 14:24 | [Connect](https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54) |
+| 🇳🇱 Netherlands | MTProto | 53 ms | 14:24 | [Connect](https://t.me/proxy?server=51.158.201.116&port=443&secret=dd083fe0c452e2407d835537872f097c54) |
+| 🇳🇱 Netherlands | MTProto | 52 ms | 14:24 | [Connect](https://t.me/proxy?server=51.158.202.129&port=443&secret=083fe0c452e2407d835537872f097c54) |
+| 🇷🇺 Russia | MTProto · Fake TLS | 171 ms | 14:24 | [Connect](https://t.me/proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c) |
+| 🇨🇦 Canada | MTProto | 70 ms | 14:24 | [Connect](https://t.me/proxy?server=help.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 🇨🇦 Canada | MTProto | 63 ms | 14:24 | [Connect](https://t.me/proxy?server=ssh.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 🇷🇺 Russia | MTProto | 51 ms | 14:24 | [Connect](https://t.me/proxy?server=185.86.145.173&port=443&secret=dd2f22523a9fdd8fa67e391a31db65b614) |
+| 🇷🇺 Russia | MTProto | 49 ms | 14:24 | [Connect](https://t.me/proxy?server=85.192.32.4&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed) |
+| 🇩🇪 Germany | MTProto | 65 ms | 14:24 | [Connect](https://t.me/proxy?server=45.131.214.12&port=4443&secret=be90375811b61f5a4c49984e2fdeeba2) |
+| 🇷🇺 Russia | MTProto | 49 ms | 14:24 | [Connect](https://t.me/proxy?server=nngo.cc&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed) |
+| 🇮🇷 Iran | MTProto | 51 ms | 14:24 | [Connect](https://t.me/proxy?server=haji.bia-hastam.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09) |
+| 🇨🇦 Canada | MTProto | 74 ms | 14:26 | [Connect](https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 🇷🇺 Russia | MTProto | 114 ms | 14:24 | [Connect](https://t.me/proxy?server=161.104.106.60&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d) |
+| 🇷🇺 Russia | MTProto · Fake TLS | 204 ms | 14:24 | [Connect](https://t.me/proxy?server=mesh.eeluma.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267) |
+| 🇷🇺 Russia | MTProto · Fake TLS | 196 ms | 14:27 | [Connect](https://t.me/proxy?server=media6.happtg.org&port=443&secret=ee7391242569590e01416101927d38b565686f66662e7275) |
+| 🇷🇺 Russia | MTProto | 51 ms | 14:24 | [Connect](https://t.me/proxy?server=telegram.monkeyvillage.pro&port=443&secret=2f22523a9fdd8fa67e391a31db65b614) |
+| 🇷🇺 Russia | MTProto · Fake TLS | 188 ms | 14:27 | [Connect](https://t.me/proxy?server=cdn6.cdnwave.org&port=443&secret=ee7391242569590e01416101927d38b565686f66662e7275) |
+| 🇲🇩 Moldova | MTProto | 135 ms | 14:24 | [Connect](https://t.me/proxy?server=guard-1.secureservice.top&port=443&secret=2181b73902be15376b13b686c2883387) |
+| 🇷🇺 Russia | MTProto · Fake TLS | 379 ms | 14:27 | [Connect](https://t.me/proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e686f66662e7275) |
+| 🇷🇺 Russia | MTProto | 119 ms | 14:26 | [Connect](https://t.me/proxy?server=84.23.52.184&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed) |
+| 🇨🇦 Canada | MTProto | 69 ms | 14:25 | [Connect](https://t.me/proxy?server=asemoonedarya.ir&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
+| 🇪🇪 Estonia | MTProto | 62 ms | 14:24 | [Connect](https://t.me/proxy?server=144.31.178.192&port=995&secret=dd7b74783ddade3cf358da69e493b83d05) |
+| 🇫🇮 Finland | MTProto · Fake TLS | 219 ms | 14:24 | [Connect](https://t.me/proxy?server=13.143.132.113&port=2083&secret=ee0314a91166489d1779b1515c34eb2a3e7777772e636c6f7564666c6172652e636f6d) |
+| 🇩🇪 Germany | MTProto | 52 ms | 14:24 | [Connect](https://t.me/proxy?server=5.45.184.15&port=443&secret=dd3162bd78edf5bf84a9a647e37f5449cf) |
+| 🇷🇺 Russia | MTProto · Fake TLS | 194 ms | 14:27 | [Connect](https://t.me/proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e686f66662e7275) |
+| 🇷🇺 Russia | MTProto · Fake TLS | 250 ms | 14:26 | [Connect](https://t.me/proxy?server=82.202.238.110&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275) |
+| 🇸🇬 Singapore | MTProto · Fake TLS | 640 ms | 14:24 | [Connect](https://t.me/proxy?server=101.32.168.198&port=8443&secret=ee7cf42ae615eb30204898c156c63f2163646f7579696e2e636f6d) |
+| 🇸🇬 Singapore | MTProto · Fake TLS | 590 ms | 14:24 | [Connect](https://t.me/proxy?server=a.tgvpns.site&port=8443&secret=ee7cf42ae615eb30204898c156c63f2163646f7579696e2e636f6d) |
+| 🇫🇷 France | MTProto · Fake TLS | 143 ms | 14:25 | [Connect](https://t.me/proxy?server=app.futurestrade.wiki&port=443&secret=eed093d11c950817ff1c54b9d1812031e670782e63727970746f637572656e63792e77696b69) |
+| 🇫🇷 France | MTProto · Fake TLS | 136 ms | 14:25 | [Connect](https://t.me/proxy?server=api.cryptocurency.wiki&port=443&secret=eed093d11c950817ff1c54b9d1812031e670782e63727970746f637572656e63792e77696b69) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 154 ms | 14:27 | [Connect](https://t.me/proxy?server=googel.alo-otp.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 104 ms | 14:27 | [Connect](https://t.me/proxy?server=alo.clare-flare-ow.store&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 132 ms | 14:27 | [Connect](https://t.me/proxy?server=googel.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇩🇪 Germany | MTProto · Fake TLS | 384 ms | 14:24 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
+| 🇮🇷 Iran | MTProto · Fake TLS | 98 ms | 14:26 | [Connect](https://t.me/proxy?server=87.248.129.135&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 🇳🇱 Netherlands | MTProto · Fake TLS | 130 ms | 14:25 | [Connect](https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 133 ms | 14:25 | [Connect](https://t.me/proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 133 ms | 14:25 | [Connect](https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 132 ms | 14:25 | [Connect](https://t.me/proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 146 ms | 14:25 | [Connect](https://t.me/proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 151 ms | 14:25 | [Connect](https://t.me/proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 181 ms | 14:24 | [Connect](https://t.me/proxy?server=172.65.119.133&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 146 ms | 14:24 | [Connect](https://t.me/proxy?server=172.65.111.24&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇩🇰 Denmark | MTProto · Fake TLS | 170 ms | 14:27 | [Connect](https://t.me/proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d) |
+| 🇺🇸 United States | MTProto | 440 ms | 14:24 | [Connect](https://t.me/proxy?server=172.86.118.190&port=443&secret=a5026141feabb864f79229eba9458c13) |
+| 🇸🇬 Singapore | MTProto · Fake TLS | 122 ms | 14:27 | [Connect](https://t.me/proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174) |
+| 🇨🇦 Canada | MTProto · Fake TLS | 126 ms | 14:27 | [Connect](https://t.me/proxy?server=alo.clare-flare-ow.store.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 🇺🇸 United States | MTProto · Fake TLS | 124 ms | 14:27 | [Connect](https://t.me/proxy?server=alpha.lite64.xyz&port=443&secret=eeb02d231f3564160c8f60dae3578b31126c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 155 ms | 14:27 | [Connect](https://t.me/proxy?server=noble.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 129 ms | 14:27 | [Connect](https://t.me/proxy?server=shadow.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 136 ms | 14:27 | [Connect](https://t.me/proxy?server=ember.lite64.top&port=443&secret=eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 140 ms | 14:27 | [Connect](https://t.me/proxy?server=iris.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 134 ms | 14:27 | [Connect](https://t.me/proxy?server=rocket.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 143 ms | 14:27 | [Connect](https://t.me/proxy?server=saturn.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 147 ms | 14:26 | [Connect](https://t.me/proxy?server=quartz.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 131 ms | 14:27 | [Connect](https://t.me/proxy?server=mirage.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇷🇺 Russia | MTProto | 197 ms | 14:25 | [Connect](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87) |
+| 🇺🇸 United States | MTProto · Fake TLS | 125 ms | 14:27 | [Connect](https://t.me/proxy?server=p.lite64.top&port=443&secret=ee54e5e2a8c284eecb495b3f5a2f8bd3106c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 132 ms | 14:26 | [Connect](https://t.me/proxy?server=dawn.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 133 ms | 14:27 | [Connect](https://t.me/proxy?server=prism.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 134 ms | 14:24 | [Connect](https://t.me/proxy?server=pearl.lite64.click&port=443&secret=ee9b9cda75bc3db77178818587580a9e846c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 164 ms | 14:27 | [Connect](https://t.me/proxy?server=celeste-monarch.velvetoak.work&port=443&secret=ee5758acf633824677e2a963f7f04ae39e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 144 ms | 14:24 | [Connect](https://t.me/proxy?server=p.lite64.top&port=443&secret=eef50c455f4d9d60ff50889cc08a9044596c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 148 ms | 14:24 | [Connect](https://t.me/proxy?server=stone.lite64.click&port=443&secret=ee027f3795dea28068179f84d8c2985ac96c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 128 ms | 14:27 | [Connect](https://t.me/proxy?server=alpha.lite64.top&port=443&secret=eeb02d231f3564160c8f60dae3578b31126c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 135 ms | 14:24 | [Connect](https://t.me/proxy?server=falcon.lite64.top&port=443&secret=ee7bdcba40ac746e31201b59bc8eb5f9ae6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 142 ms | 14:24 | [Connect](https://t.me/proxy?server=silver.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇷🇺 Russia | MTProto · Fake TLS | 95 ms | 14:26 | [Connect](https://t.me/proxy?server=45.159.210.88&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275) |
+| 🇺🇸 United States | MTProto · Fake TLS | 129 ms | 14:24 | [Connect](https://t.me/proxy?server=falcon.lite64.xyz&port=443&secret=ee7bdcba40ac746e31201b59bc8eb5f9ae6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 156 ms | 14:24 | [Connect](https://t.me/proxy?server=p.lite64.click&port=443&secret=ee0d0e1a1ade866235cf8dea2a1e83708e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 135 ms | 14:24 | [Connect](https://t.me/proxy?server=ember.lite64.xyz&port=443&secret=eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 126 ms | 14:24 | [Connect](https://t.me/proxy?server=celeste-monarch.driftquill.click&port=443&secret=ee5758acf633824677e2a963f7f04ae39e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 145 ms | 14:24 | [Connect](https://t.me/proxy?server=ion.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇳🇱 Netherlands | MTProto · Fake TLS | 149 ms | 14:24 | [Connect](https://t.me/proxy?server=176.98.182.60&port=7443&secret=ee2d954feb566b43c70d4b228e1fc0336b74672e6c756d61787664732e6f7267) |
+| 🇵🇱 Poland | MTProto · Fake TLS | 135 ms | 14:24 | [Connect](https://t.me/proxy?server=95.85.229.133&port=8443&secret=ee41e92aedf3d52bd47aa08c1c8faedc3e7777772e796f74612e7275) |
+| 🇺🇸 United States | MTProto · Fake TLS | 152 ms | 14:24 | [Connect](https://t.me/proxy?server=solar.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 140 ms | 14:24 | [Connect](https://t.me/proxy?server=dune.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 130 ms | 14:25 | [Connect](https://t.me/proxy?server=quasar.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 143 ms | 14:24 | [Connect](https://t.me/proxy?server=vertex.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 140 ms | 14:24 | [Connect](https://t.me/proxy?server=flint.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 136 ms | 14:24 | [Connect](https://t.me/proxy?server=forest.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 140 ms | 14:24 | [Connect](https://t.me/proxy?server=apollo.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 140 ms | 14:24 | [Connect](https://t.me/proxy?server=swift.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 137 ms | 14:24 | [Connect](https://t.me/proxy?server=crystal.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇷🇺 Russia | MTProto · Fake TLS | 91 ms | 14:25 | [Connect](https://t.me/proxy?server=shared3.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275) |
+| 🇺🇸 United States | MTProto · Fake TLS | 158 ms | 14:24 | [Connect](https://t.me/proxy?server=sierra.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465) |
+| 🇩🇪 Germany | MTProto · Fake TLS | 121 ms | 14:24 | [Connect](https://t.me/proxy?server=49.13.227.72&port=443&secret=ee791615d7f7c6ae6159ea3c2adf980c07306430653064306530723065307830653073307a3065307230666430632e636f2e756b) |
+| 🇺🇸 United States | MTProto · Fake TLS | 138 ms | 14:24 | [Connect](https://t.me/proxy?server=p.lite64.click&port=443&secret=eee269911715c9ef9f821d02314e6627d96c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 133 ms | 14:24 | [Connect](https://t.me/proxy?server=p.lite64.xyz&port=443&secret=ee8f2e46db5c058508697023181408edfe6c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 148 ms | 14:24 | [Connect](https://t.me/proxy?server=p.lite64.top&port=443&secret=eee3dfe8e59202ba62b5da063ddddaa8106c69746536342e73697465) |
+| 🇺🇸 United States | MTProto · Fake TLS | 157 ms | 14:24 | [Connect](https://t.me/proxy?server=p.lite64.xyz&port=443&secret=ee5b7d8506708660cf5e4bd70d0ccc91d26c69746536342e73697465) |
+| 🇷🇺 Russia | MTProto | 111 ms | 14:24 | [Connect](https://t.me/proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d) |
+| 🇮🇷 Iran | MTProto | 46 ms | 14:24 | [Connect](https://t.me/proxy?server=91.234.147.13&port=2020&secret=00000000000000000000000000000000) |
+| 🇷🇺 Russia | MTProto | 46 ms | 14:24 | [Connect](https://t.me/proxy?server=213.171.9.211&port=443&secret=9d2355bec09eda6e38144c81b9130e44) |
+| 🇷🇺 Russia | MTProto | 48 ms | 14:24 | [Connect](https://t.me/proxy?server=185.86.147.60&port=443&secret=2f22523a9fdd8fa67e391a31db65b614) |
+| 🇮🇷 Iran | MTProto | 50 ms | 14:24 | [Connect](https://t.me/proxy?server=94.184.39.7&port=2020&secret=dd00000000000000000000000000000000) |
 
 …and 400 more in [`proxies.txt`](proxies.txt) and on [tgproxy.pink](https://tgproxy.pink/?utm_source=github&utm_medium=readme&utm_campaign=telegram-proxy-list).
 
