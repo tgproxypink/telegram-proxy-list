@@ -5,7 +5,7 @@ https://t.me/socks?server=43.155.143.227&port=1080
 https://t.me/socks?server=8.218.189.99&port=3060&user=123&pass=123
 https://t.me/socks?server=8.217.208.190&port=3060&user=123&pass=123
 https://t.me/socks?server=8.218.240.247&port=3060&user=123&pass=123
-https://t.me/socks?server=8.217.241.104&port=3060&user=123&pass=123
 https://t.me/socks?server=8.217.213.161&port=3060&user=123&pass=123
+https://t.me/socks?server=8.217.241.104&port=3060&user=123&pass=123
 https://t.me/socks?server=8.217.182.75&port=3060&user=123&pass=123
 https://t.me/socks?server=8.218.165.212&port=3060&user=123&pass=123
