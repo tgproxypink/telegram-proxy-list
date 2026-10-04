@@ -22,8 +22,8 @@ https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd
 https://t.me/proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=172.65.119.133&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
-https://t.me/proxy?server=144.31.178.192&port=995&secret=dd7b74783ddade3cf358da69e493b83d05
 https://t.me/proxy?server=172.65.111.24&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=144.31.178.192&port=995&secret=dd7b74783ddade3cf358da69e493b83d05
 https://t.me/proxy?server=alo.clare-flare-ow.store.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=ember.lite64.top&port=443&secret=eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465
 https://t.me/proxy?server=iris.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -80,8 +80,8 @@ https://t.me/proxy?server=noble.lite64.click&port=443&secret=eee418f291b6279b0f4
 https://t.me/proxy?server=swift.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=185.188.30.167&port=9443&secret=ede656ebfa0f59939536e22518cb1be3
 https://t.me/proxy?server=dune.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
-https://t.me/proxy?server=49.13.227.72&port=443&secret=dd791615d7f7c6ae6159ea3c2adf980c07
 https://t.me/proxy?server=81.29.146.205&port=9443&secret=dd60d6dd98660819d185ebb76ff5a6af03
+https://t.me/proxy?server=49.13.227.72&port=443&secret=dd791615d7f7c6ae6159ea3c2adf980c07
 https://t.me/proxy?server=shadowng.com&port=443&secret=eed29ebec7ab08836a0de7e807bc8dfaa8736861646f776e672e636f6d
 https://t.me/proxy?server=spb-ee.spiderservice.vip&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275
 https://t.me/proxy?server=portfolio.hrscp.net&port=8443&secret=ee07955a5d55074ab555484463a3f2ceca706f7274666f6c696f2e68727363702e6e6574
@@ -142,7 +142,6 @@ https://t.me/proxy?server=astra.lite64.click&port=443&secret=eee418f291b6279b0f4
 https://t.me/proxy?server=orca.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=p2.avaop.shop&port=777&secret=c9ac4f8d5b7d18dcedd6e62dc72c3267
 https://t.me/proxy?server=146.103.98.103&port=8443&secret=ee499738728118500114344817883716163134362e3130332e39382e313033
-https://t.me/proxy?server=bright-cube.ngstream.top&port=443&secret=dde4af9a1e7e9f714fbee7d73f2ee48542
 https://t.me/proxy?server=eagle.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=silver.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=hawk.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -167,6 +166,7 @@ https://t.me/proxy?server=ivory.lite64.xyz&port=443&secret=eee418f291b6279b0f441
 https://t.me/proxy?server=glow.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=garnet.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=oasis.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=bright-cube.ngstream.top&port=443&secret=dde4af9a1e7e9f714fbee7d73f2ee48542
 https://t.me/proxy?server=swift.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=signal.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=nova.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -180,7 +180,6 @@ https://t.me/proxy?server=stone.lanternmoss.top&port=443&secret=eee418f291b6279b
 https://t.me/proxy?server=sky.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=ruby.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=clover.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
-https://t.me/proxy?server=shadow.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=violet.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=ultra.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=glacier.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -259,7 +258,6 @@ https://t.me/proxy?server=axis.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f
 https://t.me/proxy?server=rocket.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=topaz.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=titan.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
-https://t.me/proxy?server=harbor.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=north.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=glacier.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=blaze.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -294,7 +292,6 @@ https://t.me/proxy?server=frost.lite64.click&port=443&secret=eee418f291b6279b0f4
 https://t.me/proxy?server=wave.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=coral.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=crest.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
-https://t.me/proxy?server=lagoon.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=bolt.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=summit.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=lumen.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -314,7 +311,6 @@ https://t.me/proxy?server=ultra.lite64.click&port=443&secret=eee418f291b6279b0f4
 https://t.me/proxy?server=breeze.lite64.top&port=443&secret=ee3e2ae9bbd534aa0d5e110d8f02897e0e6c69746536342e73697465
 https://t.me/proxy?server=river.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=meteor.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
-https://t.me/proxy?server=cirrus.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=cosmo.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=shadow.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=volt.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -327,7 +323,6 @@ https://t.me/proxy?server=neon.lanternmoss.top&port=443&secret=eee418f291b6279b0
 https://t.me/proxy?server=cedar.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=lark.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=horizon.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
-https://t.me/proxy?server=ion.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=breeze.lite64.xyz&port=443&secret=ee3e2ae9bbd534aa0d5e110d8f02897e0e6c69746536342e73697465
 https://t.me/proxy?server=fern.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=summit.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -422,7 +417,6 @@ https://t.me/proxy?server=harbor.hollowfern.sbs&port=443&secret=eee418f291b6279b
 https://t.me/proxy?server=prism.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=twilight.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=karma2.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
-https://t.me/proxy?server=91.98.101.51&port=443&secret=ddc508cd904613bf61d95b09437ffddb4e
 https://t.me/proxy?server=hi.notmescat.net&port=7443&secret=ee4b9ba5fcb813d00ef6f7c5a0302f182f68692e6e6f746d65736361742e6e6574
 https://t.me/proxy?server=109.199.122.32&port=62119&secret=0be225c098590033badc5805ffe2b4a6
 https://t.me/proxy?server=ivory.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -431,17 +425,17 @@ https://t.me/proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7
 https://t.me/proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=rain.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=radar.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=91.98.101.51&port=443&secret=ddc508cd904613bf61d95b09437ffddb4e
 https://t.me/proxy?server=signal.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=granite.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=husky-moss.driftquill.click&port=443&secret=ee5d0b88cd42aaade1797bc71e1263156b6c69746536342e73697465
 https://t.me/proxy?server=bolt.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=storm.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=husky-moss.velvetoak.work&port=443&secret=ee5d0b88cd42aaade1797bc71e1263156b6c69746536342e73697465
-https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87
 https://t.me/proxy?server=breeze.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=harbor.lite64.top&port=443&secret=eee1b6547bfc0c2f75844fc670f8ea5e3a6c69746536342e73697465
 https://t.me/proxy?server=comet.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
-https://t.me/proxy?server=harbor.lite64.xyz&port=443&secret=eee1b6547bfc0c2f75844fc670f8ea5e3a6c69746536342e73697465
+https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87
 https://t.me/proxy?server=proxy.proverka.help&port=443&secret=dd1a452ca2531bf0b6120cc3008ec6580b
 https://t.me/proxy?server=147.90.235.31&port=443&secret=ee00000000000000000000000000000000636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=sapphire.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -483,14 +477,13 @@ https://t.me/proxy?server=drift.driftquill.click&port=443&secret=eee418f291b6279
 https://t.me/proxy?server=tundra.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=rain.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=saturn.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
-https://t.me/proxy?server=185.233.186.123&port=443&secret=7040d3081498c7a6d5ce83d412843d6a
 https://t.me/proxy?server=topaz.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=185.233.186.123&port=443&secret=7040d3081498c7a6d5ce83d412843d6a
 https://t.me/proxy?server=brook.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=fast.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=axis.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=flare.lite64.xyz&port=443&secret=ee17af6288039c7badd552aeb8a8e69f786c69746536342e73697465
-https://t.me/proxy?server=violet.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=cirrus.pebblewisp.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=nebula.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=pearl.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
@@ -498,3 +491,10 @@ https://t.me/proxy?server=zenith.hollowfern.sbs&port=443&secret=eee418f291b6279b
 https://t.me/proxy?server=river.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=frost.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=radar.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=jade.lite64.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=origin.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=ion.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=drift.lanternmoss.top&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=neon.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=titan.hollowfern.sbs&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
+https://t.me/proxy?server=ridge.velvetoak.work&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
