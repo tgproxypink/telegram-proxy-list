@@ -78,8 +78,8 @@ https://t.me/proxy?server=tr.7geo7.ru&port=443&secret=eee1c6bd80658022ae8e19eeea
 https://t.me/proxy?server=media.cryptocurency.wiki&port=443&secret=eed093d11c950817ff1c54b9d1812031e670782e63727970746f637572656e63792e77696b69
 https://t.me/proxy?server=static.cryptocurency.wiki&port=443&secret=eed093d11c950817ff1c54b9d1812031e670782e63727970746f637572656e63792e77696b69
 https://t.me/proxy?server=v6.cryptocurency.wiki&port=443&secret=eed093d11c950817ff1c54b9d1812031e670782e63727970746f637572656e63792e77696b69
-https://t.me/proxy?server=pts.daricto.ir&port=443&secret=953d7a7960199dec8308605b94e2019f
 https://t.me/proxy?server=aura.lite64.xyz&port=443&secret=ee4b829fbbbb6dd1ff23164009f50c60b36c69746536342e73697465
+https://t.me/proxy?server=pts.daricto.ir&port=443&secret=953d7a7960199dec8308605b94e2019f
 https://t.me/proxy?server=89.125.201.70&port=443&secret=ee00000000000000000000000000000000636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=sapphire-fjord.velvetoak.work&port=443&secret=ee83acbe1b332000bec311375c7cf6e1016c69746536342e73697465
 https://t.me/proxy?server=185.35.137.151&port=443&secret=eee1c6bd80658022ae8e19eeeab500a17a74722e3767656f372e7275
