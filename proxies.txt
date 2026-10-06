@@ -476,8 +476,8 @@ https://t.me/proxy?server=phoenix.lite64.click&port=443&secret=eee418f291b6279b0
 https://t.me/proxy?server=citrus.driftquill.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=mirage.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=185.233.186.123&port=443&secret=7040d3081498c7a6d5ce83d412843d6a
 https://t.me/proxy?server=91.98.101.51&port=443&secret=ddc508cd904613bf61d95b09437ffddb4e
+https://t.me/proxy?server=185.233.186.123&port=443&secret=7040d3081498c7a6d5ce83d412843d6a
 https://t.me/proxy?server=bolt.lite64.click&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=dune.lite64.xyz&port=443&secret=eee418f291b6279b0f441469b2d05e5a7e6c69746536342e73697465
 https://t.me/proxy?server=comet.lite64.xyz&port=443&secret=ee0c0cb30201a76f451c5a8f6fa025345f6c69746536342e73697465
