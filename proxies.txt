@@ -37,7 +37,6 @@ https://t.me/proxy?server=nex7.space&port=443&secret=e8da6fda391b335dff2083634c9
 https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87
 https://t.me/proxy?server=ec2-3-16-48-165.us-east-2.compute.amazonaws.com&port=443&secret=ee7f19d4230173736615aca50d4a67aeaa7370656564746573742e6e6574
 https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87
-https://t.me/proxy?server=tp1.dfsah.org&port=443&secret=4b8c789db83be47dac0a35bbced49e4c
 https://t.me/proxy?server=spb-ee.spiderservice.vip&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275
 https://t.me/proxy?server=159.194.196.231&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275
 https://t.me/proxy?server=81.26.186.64&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
@@ -498,3 +497,4 @@ https://t.me/proxy?server=std.mishutkin.click&port=443&secret=eeb75972ad4ea6cd84
 https://t.me/proxy?server=portal.mtjlpoto.fit&port=443&secret=ee4e5301d8840c786333cff0001a993e85786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=demiga67.amberreed.top&port=443&secret=ee14697011e0c73f03e95d7b6919a2252b64656d69676136372e616d626572726565642e746f70
 https://t.me/proxy?server=lotus.lite64.click&port=443&secret=ee3af44f54fb6bb24e664d38ffb1a781196c6f7475732e6c69746536342e636c69636b
+https://t.me/proxy?server=lite.mishutkin.click&port=443&secret=ee6c0129616e502347f4d94229b5e9abd76c6974652e6d69736875746b696e2e636c69636b
