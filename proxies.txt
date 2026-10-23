@@ -23,7 +23,6 @@ https://t.me/proxy?server=51.158.187.113&port=38443&secret=ddca11911c0de0faffec7
 https://t.me/proxy?server=data.futurestrade.wiki&port=443&secret=eed093d11c950817ff1c54b9d1812031e670782e63727970746f637572656e63792e77696b69
 https://t.me/proxy?server=5.178.96.124&port=8443&secret=eeeb90be208258190e6f23823a5724f889352e3137382e39362e313234
 https://t.me/proxy?server=3.125.160.55&port=443&secret=e8da6fda391b335dff2083634c9e7db5
-https://t.me/proxy?server=proxy.star-v.ru&port=443&secret=ddb632d68d9b00d674cb64265a2e23e98d
 https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972
 https://t.me/proxy?server=v6.cryptocurency.wiki&port=443&secret=eed093d11c950817ff1c54b9d1812031e670782e63727970746f637572656e63792e77696b69
 https://t.me/proxy?server=151.115.61.136&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e
@@ -498,3 +497,4 @@ https://t.me/proxy?server=demiga67.amberreed.top&port=443&secret=ee14697011e0c73
 https://t.me/proxy?server=lotus.lite64.click&port=443&secret=ee3af44f54fb6bb24e664d38ffb1a781196c6f7475732e6c69746536342e636c69636b
 https://t.me/proxy?server=lite.mishutkin.click&port=443&secret=ee6c0129616e502347f4d94229b5e9abd76c6974652e6d69736875746b696e2e636c69636b
 https://t.me/proxy?server=falcon.mishutkin.click&port=443&secret=eecd4b206f5479dba885bfcd191414093666616c636f6e2e6d69736875746b696e2e636c69636b
+https://t.me/proxy?server=mazo77.amberreed.top&port=443&secret=ee7e47980ad2fc8c51977af0c6718ced1a6d617a6f37372e616d626572726565642e746f70
