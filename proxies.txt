@@ -23,7 +23,6 @@ https://t.me/proxy?server=v6.cryptocurency.wiki&port=443&secret=eed093d11c950817
 https://t.me/proxy?server=v6.cryptocurency.wiki&port=443&secret=eeafff8ed2b758741b6872fb8b00f1230270782e63727970746f637572656e63792e77696b69
 https://t.me/proxy?server=bluefjordstudio.com&port=443&secret=ee41c7a3ce1e5ba895c28e961382a409fe626c7565666a6f726473747564696f2e636f6d
 https://t.me/proxy?server=nex7.space&port=443&secret=e8da6fda391b335dff2083634c9e7db5
-https://t.me/proxy?server=3.149.86.139&port=8443&secret=ee7f19d4230173736615aca50d4a67aeaa7370656564746573742e6e6574
 https://t.me/proxy?server=spb-ee.spiderservice.vip&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275
 https://t.me/proxy?server=159.194.196.231&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275
 https://t.me/proxy?server=spb-dd.spiderservice.vip&port=443&secret=dd6434317afacc4e4505a2c5a79a75c507
@@ -498,3 +497,4 @@ https://t.me/proxy?server=shadow.velvetoak.work&port=443&secret=eee37d2ac00492bf
 https://t.me/proxy?server=haven.hollowfern.sbs&port=443&secret=eeb68b66e59328f050485be0f96193ef26686176656e2e686f6c6c6f776665726e2e736273
 https://t.me/proxy?server=atlas.lite64.click&port=443&secret=eeb68b66e59328f050485be0f96193ef2661746c61732e6c69746536342e636c69636b
 https://t.me/proxy?server=meteor.hollowfern.sbs&port=443&secret=eee37d2ac00492bf7c77672c84a4a00c436d6574656f722e686f6c6c6f776665726e2e736273
+https://t.me/proxy?server=saturn.lite64.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b3073617475726e2e6c69746536342e746f70
