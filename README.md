@@ -6,7 +6,7 @@ Working proxies for Telegram, **verified with a real connection to Telegram** an
 
 **Full list with filters, QR codes and setup guides → [tgproxy.pink](https://tgproxy.pink/?utm_source=github&utm_medium=readme&utm_campaign=telegram-proxy-list)**
 
-_Updated 2026-11-15 21:08 UTC · 500 proxies from 24 countries · ping measured from Moscow_
+_Updated 2026-11-15 22:07 UTC · 500 proxies from 24 countries · ping measured from Moscow_
 
 ## How to connect
 
