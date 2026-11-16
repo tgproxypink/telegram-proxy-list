@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T01:08:39+00:00",
+  "updated": "2026-11-16T02:07:55+00:00",
   "source": "https://tgproxy.pink/",
   "proxies": [
     {
@@ -9,8 +9,8 @@
       "server": "dl3.soft98.net",
       "port": 2053,
       "country": "DE",
-      "ping_ms": 110,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 213,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=51.158.201.123&port=443&secret=083fe0c452e2407d835537872f097c54",
@@ -19,8 +19,8 @@
       "server": "51.158.201.123",
       "port": 443,
       "country": "NL",
-      "ping_ms": 54,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 55,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=streamclub.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
@@ -33,44 +33,14 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=ru1.telehelp.top&port=443&secret=ee2b867f9c2ab429ed3b5abcaa1fd90f5864726976652e676f6f676c652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "ru1.telehelp.top",
-      "port": 443,
-      "country": "UA",
-      "ping_ms": 163,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=51.158.187.113&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e",
       "kind": "mtproto",
       "fake_tls": false,
       "server": "51.158.187.113",
       "port": 38443,
       "country": "NL",
-      "ping_ms": 55,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=cloud93.aaifx.com&port=8443&secret=ee6a175bc5a503dd59e6620ac3d3f42b73636c6f7564666c6172652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "cloud93.aaifx.com",
-      "port": 8443,
-      "country": "DE",
-      "ping_ms": 242,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=51.158.201.116&port=443&secret=083fe0c452e2407d835537872f097c54",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "51.158.201.116",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 181,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 65,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=51.158.202.65&port=443&secret=083fe0c452e2407d835537872f097c54",
@@ -79,8 +49,8 @@
       "server": "51.158.202.65",
       "port": 443,
       "country": "NL",
-      "ping_ms": 54,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 57,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=seansland25.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
@@ -89,8 +59,8 @@
       "server": "seansland25.tvoyasvoboda.help",
       "port": 443,
       "country": "FI",
-      "ping_ms": 151,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 165,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=72.56.94.135&port=9443&secret=58737358dee675be48618b79ece66f8c",
@@ -99,18 +69,8 @@
       "server": "72.56.94.135",
       "port": 9443,
       "country": "NL",
-      "ping_ms": 49,
-      "checked": "2026-11-16T01:07:27+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=45.159.210.88&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "45.159.210.88",
-      "port": 8443,
-      "country": "RU",
-      "ping_ms": 124,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 60,
+      "checked": "2026-11-16T02:07:30+00:00"
     },
     {
       "link": "https://t.me/proxy?server=nova.telehelp.top&port=443&secret=eedad4fc60aabecc567152a79c62cd867964726976652e676f6f676c652e636f6d",
@@ -143,26 +103,6 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=51.158.202.129&port=443&secret=083fe0c452e2407d835537872f097c54",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "51.158.202.129",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 52,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=io.telehelp.top&port=443&secret=eef5e221dd3cab5ffe7c01ddd527032cbc64726976652e676f6f676c652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "io.telehelp.top",
-      "port": 443,
-      "country": "SE",
-      "ping_ms": 156,
-      "checked": "2026-11-16T01:07:32+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=teleclub.mtpvideo.my&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
       "kind": "mtproto",
       "fake_tls": true,
@@ -179,8 +119,18 @@
       "server": "premierastar.mtproxy.me",
       "port": 443,
       "country": "PL",
-      "ping_ms": 156,
-      "checked": "2026-11-16T01:07:32+00:00"
+      "ping_ms": 302,
+      "checked": "2026-11-16T02:07:36+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=2a06%3Af901%3A1%3A100%3A%3A261&port=59167&secret=dd91c7fecdf5805a482ea70043dede1e5b",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "2a06:f901:1:100::261",
+      "port": 59167,
+      "country": "NL",
+      "ping_ms": 60,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=multikplus.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
@@ -193,24 +143,14 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=2a06%3Af901%3A1%3A100%3A%3A261&port=59167&secret=dd91c7fecdf5805a482ea70043dede1e5b",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "2a06:f901:1:100::261",
-      "port": 59167,
-      "country": "NL",
-      "ping_ms": 49,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=5.42.114.210&port=443&secret=ee853c6d9722a3789f8533cd9dd0baec1b7777772e617669746f2e7275",
       "kind": "mtproto",
       "fake_tls": true,
       "server": "5.42.114.210",
       "port": 443,
       "country": "RU",
-      "ping_ms": 100,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 106,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=amb.telehelp.top&port=443&secret=ee5447efddb6d2d618e850c2f2eef65b5964726976652e676f6f676c652e636f6d",
@@ -279,8 +219,8 @@
       "server": "141.98.190.109",
       "port": 443,
       "country": "RU",
-      "ping_ms": 70,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 82,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
@@ -303,6 +243,16 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
+      "link": "https://t.me/proxy?server=212.47.236.50&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "212.47.236.50",
+      "port": 38443,
+      "country": "FR",
+      "ping_ms": 74,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
       "link": "https://t.me/proxy?server=flash.telehelp.top&port=443&secret=ee0ff78387249645d580fc2791e5121afc64726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
@@ -313,24 +263,14 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=212.47.236.50&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "212.47.236.50",
-      "port": 38443,
-      "country": "FR",
-      "ping_ms": 61,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=premierastar.mtproxy.me&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
       "kind": "mtproto",
       "fake_tls": false,
       "server": "premierastar.mtproxy.me",
       "port": 443,
       "country": "PL",
-      "ping_ms": 81,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "ping_ms": 87,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87",
@@ -349,8 +289,8 @@
       "server": "mtpr.telehelp.top",
       "port": 443,
       "country": "PL",
-      "ping_ms": 151,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 162,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=hyper.proxynet.tech&port=443&secret=ee01e359dab3f2dbd8a9c03f27c3a14eb964726976652e676f6f676c652e636f6d",
@@ -359,8 +299,8 @@
       "server": "hyper.proxynet.tech",
       "port": 443,
       "country": "PL",
-      "ping_ms": 165,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 182,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=gram.proxynet.tech&port=443&secret=ee46a30f9e2a6c81ba8466e5055d3d497a64726976652e676f6f676c652e636f6d",
@@ -369,8 +309,8 @@
       "server": "gram.proxynet.tech",
       "port": 443,
       "country": "PL",
-      "ping_ms": 162,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 191,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=fast.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
@@ -379,8 +319,8 @@
       "server": "fast.love-internet.xyz",
       "port": 4515,
       "country": "FR",
-      "ping_ms": 160,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 163,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=max.mishutkin.click&port=443&secret=ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d",
@@ -389,8 +329,8 @@
       "server": "max.mishutkin.click",
       "port": 443,
       "country": "UA",
-      "ping_ms": 218,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 216,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=51.21.149.196&port=443&secret=e8da6fda391b335dff2083634c9e7db5",
@@ -399,8 +339,8 @@
       "server": "51.21.149.196",
       "port": 443,
       "country": "SE",
-      "ping_ms": 55,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "ping_ms": 59,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
@@ -409,18 +349,8 @@
       "server": "dedicated.love-internet.xyz",
       "port": 4515,
       "country": "TM",
-      "ping_ms": 151,
-      "checked": "2026-11-16T01:07:30+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=3.125.160.55&port=443&secret=e8da6fda391b335dff2083634c9e7db5",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "3.125.160.55",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 142,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 164,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=lynx.proxynet.tech&port=443&secret=eead06ca534edb58cb269452395ec2c73564726976652e676f6f676c652e636f6d",
@@ -429,8 +359,8 @@
       "server": "lynx.proxynet.tech",
       "port": 443,
       "country": "UA",
-      "ping_ms": 162,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 159,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
@@ -439,8 +369,8 @@
       "server": "super.alotaxi.info",
       "port": 4515,
       "country": "FR",
-      "ping_ms": 162,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 170,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=wgram.telehelp.top&port=443&secret=ee6d49313978f53b9900717d9629a6195264726976652e676f6f676c652e636f6d",
@@ -449,18 +379,8 @@
       "server": "wgram.telehelp.top",
       "port": 443,
       "country": "UA",
-      "ping_ms": 453,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=51.158.201.116&port=443&secret=dd083fe0c452e2407d835537872f097c54",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "51.158.201.116",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 141,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 172,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=seanstop.mtpvideo.my&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
@@ -469,8 +389,8 @@
       "server": "seanstop.mtpvideo.my",
       "port": 443,
       "country": "PL",
-      "ping_ms": 181,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 156,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=portfolio.hrscp.net&port=8443&secret=ee07955a5d55074ab555484463a3f2ceca706f7274666f6c696f2e68727363702e6e6574",
@@ -479,8 +399,8 @@
       "server": "portfolio.hrscp.net",
       "port": 8443,
       "country": "RU",
-      "ping_ms": 178,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 203,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=ext.telehelp.top&port=443&secret=eeee6346afab025548078bd2a057243f0f64726976652e676f6f676c652e636f6d",
@@ -489,8 +409,8 @@
       "server": "ext.telehelp.top",
       "port": 443,
       "country": "PL",
-      "ping_ms": 155,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 167,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=fast.prxtg.top&port=443&secret=ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d",
@@ -499,8 +419,18 @@
       "server": "fast.prxtg.top",
       "port": 443,
       "country": "UA",
-      "ping_ms": 163,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 201,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=ru1.telehelp.top&port=443&secret=ee2b867f9c2ab429ed3b5abcaa1fd90f5864726976652e676f6f676c652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "ru1.telehelp.top",
+      "port": 443,
+      "country": "UA",
+      "ping_ms": 551,
+      "checked": "2026-11-16T02:07:35+00:00"
     },
     {
       "link": "https://t.me/proxy?server=172.65.119.133&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
@@ -509,8 +439,8 @@
       "server": "172.65.119.133",
       "port": 25565,
       "country": "CA",
-      "ping_ms": 83,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 230,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=onyx.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275",
@@ -519,8 +449,8 @@
       "server": "onyx.hollowfern.sbs",
       "port": 8443,
       "country": "FI",
-      "ping_ms": 163,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 207,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c6172652e79617a7a616562616c73796164656c617470726f78792e6363",
@@ -529,18 +459,8 @@
       "server": "redflag.yazaebalsyadelatproxy.co.uk",
       "port": 443,
       "country": "NL",
-      "ping_ms": 282,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=82.202.238.110&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "82.202.238.110",
-      "port": 443,
-      "country": "RU",
-      "ping_ms": 301,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 353,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=dd58737358dee675be48618b79ece66f8c",
@@ -549,8 +469,8 @@
       "server": "tg4.quki-hub.com",
       "port": 9443,
       "country": "NL",
-      "ping_ms": 50,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 47,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=seanszone94.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
@@ -559,8 +479,18 @@
       "server": "seanszone94.tvoyasvoboda.help",
       "port": 443,
       "country": "PL",
-      "ping_ms": 273,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 161,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=showline67.mtpvideo.my&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "showline67.mtpvideo.my",
+      "port": 443,
+      "country": "UA",
+      "ping_ms": 169,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=cosmo.velvetoak.work&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d",
@@ -573,14 +503,14 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=showline67.mtpvideo.my&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
+      "link": "https://t.me/proxy?server=mjsjsuis7sd3.dpdns.org&port=443&secret=eedcac82acd839d448c1aa3d2cae4191cc6b6b6c63616b6c732e6972",
       "kind": "mtproto",
-      "fake_tls": false,
-      "server": "showline67.mtpvideo.my",
+      "fake_tls": true,
+      "server": "mjsjsuis7sd3.dpdns.org",
       "port": 443,
-      "country": "UA",
-      "ping_ms": 99,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "country": "SE",
+      "ping_ms": 116,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=seanszone94.tvoyasvoboda.help&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
@@ -589,18 +519,8 @@
       "server": "seanszone94.tvoyasvoboda.help",
       "port": 443,
       "country": "PL",
-      "ping_ms": 96,
-      "checked": "2026-11-16T01:07:27+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=mjsjsuis7sd3.dpdns.org&port=443&secret=eedcac82acd839d448c1aa3d2cae4191cc6b6b6c63616b6c732e6972",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "mjsjsuis7sd3.dpdns.org",
-      "port": 443,
-      "country": "SE",
-      "ping_ms": 108,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "ping_ms": 169,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=free.tprox.net&port=443&secret=dd583de2881533667b60a718e9bf8049e9",
@@ -609,18 +529,8 @@
       "server": "free.tprox.net",
       "port": 443,
       "country": "FR",
-      "ping_ms": 88,
-      "checked": "2026-11-16T01:07:27+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=vista.velvetoak.work&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "vista.velvetoak.work",
-      "port": 8443,
-      "country": "SE",
-      "ping_ms": 291,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 66,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54",
@@ -629,8 +539,8 @@
       "server": "ams1.tlgfast.com",
       "port": 443,
       "country": "NL",
-      "ping_ms": 186,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 170,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=seanstop.mtpvideo.my&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
@@ -639,18 +549,8 @@
       "server": "seanstop.mtpvideo.my",
       "port": 443,
       "country": "PL",
-      "ping_ms": 87,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=58737358dee675be48618b79ece66f8c",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "tg4.quki-hub.com",
-      "port": 9443,
-      "country": "NL",
-      "ping_ms": 151,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 81,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=zodesu33.saltfern.xyz&port=8443&secret=ee90466c3a2e42ab9e12adcd4a032972e8706574726f766963682e7275",
@@ -659,8 +559,8 @@
       "server": "zodesu33.saltfern.xyz",
       "port": 8443,
       "country": "US",
-      "ping_ms": 154,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 194,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=fly.telehelp.top&port=443&secret=eefdba527c555376b5c1b0f7923eb9418664726976652e676f6f676c652e636f6d",
@@ -669,18 +569,8 @@
       "server": "fly.telehelp.top",
       "port": 443,
       "country": "PL",
-      "ping_ms": 169,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=connect.mtproxy.me&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "connect.mtproxy.me",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 96,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 350,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=streamclub.tvoyasvoboda.help&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
@@ -689,8 +579,8 @@
       "server": "streamclub.tvoyasvoboda.help",
       "port": 443,
       "country": "UA",
-      "ping_ms": 96,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 170,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=telega.proxynet.tech&port=443&secret=eecbfffe3110f43cc4c15de80f8474fabe64726976652e676f6f676c652e636f6d",
@@ -699,8 +589,8 @@
       "server": "telega.proxynet.tech",
       "port": 443,
       "country": "UA",
-      "ping_ms": 159,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 158,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=tango.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -709,8 +599,8 @@
       "server": "tango.lanternmoss.top",
       "port": 8443,
       "country": "FI",
-      "ping_ms": 169,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 156,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=tg.creds.vip&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e",
@@ -719,8 +609,8 @@
       "server": "tg.creds.vip",
       "port": 38443,
       "country": "PL",
-      "ping_ms": 54,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 89,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=ec2-3-149-86-139.us-east-2.compute.amazonaws.com&port=8443&secret=ee7f19d4230173736615aca50d4a67aeaa7370656564746573742e6e6574",
@@ -729,18 +619,8 @@
       "server": "ec2-3-149-86-139.us-east-2.compute.amazonaws.com",
       "port": 8443,
       "country": "US",
-      "ping_ms": 380,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=51.158.202.129&port=443&secret=dd083fe0c452e2407d835537872f097c54",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "51.158.202.129",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 52,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 372,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=amber.tidelark.cc&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
@@ -749,8 +629,8 @@
       "server": "amber.tidelark.cc",
       "port": 8443,
       "country": "US",
-      "ping_ms": 158,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 174,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=multikplus.tvoyasvoboda.help&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
@@ -759,8 +639,8 @@
       "server": "multikplus.tvoyasvoboda.help",
       "port": 443,
       "country": "UA",
-      "ping_ms": 99,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 169,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=2.29.112.139&port=3333&secret=dd6c7148cdf7ed2d3f1e7d375fb6e73c27",
@@ -769,8 +649,8 @@
       "server": "2.29.112.139",
       "port": 3333,
       "country": "FI",
-      "ping_ms": 129,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 61,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=proxy.star-v.ru&port=443&secret=ddb632d68d9b00d674cb64265a2e23e98d",
@@ -779,8 +659,8 @@
       "server": "proxy.star-v.ru",
       "port": 443,
       "country": "PL",
-      "ping_ms": 62,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 45,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=13.58.22.61&port=443&secret=7d98258a55364368867e30b16b2fdd83",
@@ -790,7 +670,7 @@
       "port": 443,
       "country": "US",
       "ping_ms": 224,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n9ac1ee.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -799,8 +679,8 @@
       "server": "n9ac1ee.tidalcache.com",
       "port": 443,
       "country": "SE",
-      "ping_ms": 109,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 211,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=quartz.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -809,8 +689,8 @@
       "server": "quartz.driftquill.click",
       "port": 8443,
       "country": "DE",
-      "ping_ms": 162,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 170,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=teo.telehelp.top&port=443&secret=ee7ff258f2717b8d34fdccde7d252ad7e264726976652e676f6f676c652e636f6d",
@@ -819,18 +699,8 @@
       "server": "teo.telehelp.top",
       "port": 443,
       "country": "PL",
-      "ping_ms": 160,
-      "checked": "2026-11-16T01:07:30+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=videobox53.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "videobox53.tvoyasvoboda.help",
-      "port": 443,
-      "country": "PL",
       "ping_ms": 175,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=videoline.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
@@ -839,8 +709,8 @@
       "server": "videoline.tvoyasvoboda.help",
       "port": 443,
       "country": "UA",
-      "ping_ms": 167,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 157,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=instant.driftquill.click&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d",
@@ -849,8 +719,8 @@
       "server": "instant.driftquill.click",
       "port": 8443,
       "country": "DE",
-      "ping_ms": 356,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 256,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=top.fastprx.top&port=443&secret=ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d",
@@ -859,8 +729,8 @@
       "server": "top.fastprx.top",
       "port": 443,
       "country": "PL",
-      "ping_ms": 169,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 245,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=nex7.space&port=443&secret=e8da6fda391b335dff2083634c9e7db5",
@@ -869,8 +739,8 @@
       "server": "nex7.space",
       "port": 443,
       "country": "SE",
-      "ping_ms": 87,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 61,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=rocket.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
@@ -879,8 +749,8 @@
       "server": "rocket.velvetoak.work",
       "port": 8443,
       "country": "FI",
-      "ping_ms": 163,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 181,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=iris.quillmarsh.xyz&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
@@ -889,8 +759,8 @@
       "server": "iris.quillmarsh.xyz",
       "port": 8443,
       "country": "UA",
-      "ping_ms": 152,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 173,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=videobox53.tvoyasvoboda.help&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
@@ -899,8 +769,8 @@
       "server": "videobox53.tvoyasvoboda.help",
       "port": 443,
       "country": "PL",
-      "ping_ms": 92,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 169,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n082b52.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -909,8 +779,8 @@
       "server": "n082b52.tidalcache.com",
       "port": 443,
       "country": "DE",
-      "ping_ms": 434,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 314,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -919,8 +789,8 @@
       "server": "edge.tidalcache.com",
       "port": 443,
       "country": "DE",
-      "ping_ms": 488,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 160,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n886c8f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -929,18 +799,8 @@
       "server": "n886c8f.tidalcache.com",
       "port": 443,
       "country": "DE",
-      "ping_ms": 202,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n8f63d0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n8f63d0.tidalcache.com",
-      "port": 443,
-      "country": "FI",
-      "ping_ms": 474,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 231,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=spark.birchquay.xyz&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf64726976652e676f6f676c652e636f6d",
@@ -949,28 +809,18 @@
       "server": "spark.birchquay.xyz",
       "port": 8443,
       "country": "US",
-      "ping_ms": 256,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 160,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=89.108.71.59&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
+      "link": "https://t.me/proxy?server=n8f63d0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "89.108.71.59",
+      "server": "n8f63d0.tidalcache.com",
       "port": 443,
-      "country": "RU",
-      "ping_ms": 59,
-      "checked": "2026-11-16T01:07:27+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n154351.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n154351.tidalcache.com",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 477,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "country": "FI",
+      "ping_ms": 562,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=shield2.velvetoak.work&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d",
@@ -979,8 +829,8 @@
       "server": "shield2.velvetoak.work",
       "port": 8443,
       "country": "US",
-      "ping_ms": 157,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 166,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n30dd04.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -989,8 +839,8 @@
       "server": "n30dd04.tidalcache.com",
       "port": 443,
       "country": "SE",
-      "ping_ms": 122,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 175,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=falcon.copperwren.click&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
@@ -999,28 +849,8 @@
       "server": "falcon.copperwren.click",
       "port": 8443,
       "country": "US",
-      "ping_ms": 423,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n2d725e.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n2d725e.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 198,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n941633.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n941633.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 172,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 163,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=176.9.31.114&port=8444&secret=0ac81396d9b2d04b9dfa24f3e4bf281e",
@@ -1029,18 +859,8 @@
       "server": "176.9.31.114",
       "port": 8444,
       "country": "DE",
-      "ping_ms": 70,
-      "checked": "2026-11-16T01:07:27+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n6ae732.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n6ae732.tidalcache.com",
-      "port": 443,
-      "country": "HR",
-      "ping_ms": 430,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 60,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n3eec28.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1049,18 +869,28 @@
       "server": "n3eec28.tidalcache.com",
       "port": 443,
       "country": "FI",
-      "ping_ms": 455,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 102,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=n13103c.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=n6ae732.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "n13103c.tidalcache.com",
+      "server": "n6ae732.tidalcache.com",
       "port": 443,
-      "country": "FI",
-      "ping_ms": 444,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "country": "HR",
+      "ping_ms": 488,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=cloud93.aaifx.com&port=8443&secret=ee6a175bc5a503dd59e6620ac3d3f42b73636c6f7564666c6172652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "cloud93.aaifx.com",
+      "port": 8443,
+      "country": "DE",
+      "ping_ms": 727,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=89.19.217.206&port=443&secret=44f63df50ec68c8fa7d7ea1347ef6ea4",
@@ -1069,8 +899,18 @@
       "server": "89.19.217.206",
       "port": 443,
       "country": "NL",
-      "ping_ms": 62,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 60,
+      "checked": "2026-11-16T02:07:30+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n13103c.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n13103c.tidalcache.com",
+      "port": 443,
+      "country": "FI",
+      "ping_ms": 488,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n2aa6e7.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1079,28 +919,8 @@
       "server": "n2aa6e7.tidalcache.com",
       "port": 443,
       "country": "NL",
-      "ping_ms": 261,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=nfd32fa.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "nfd32fa.tidalcache.com",
-      "port": 443,
-      "country": "CH",
-      "ping_ms": 486,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=na8c768.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "na8c768.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 438,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 208,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=edge1.tidalcache.uk&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e756b",
@@ -1109,8 +929,18 @@
       "server": "edge1.tidalcache.uk",
       "port": 443,
       "country": "FI",
-      "ping_ms": 438,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "ping_ms": 149,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=na8c768.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "na8c768.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 328,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n7f51a4.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1119,8 +949,18 @@
       "server": "n7f51a4.tidalcache.com",
       "port": 443,
       "country": "NL",
-      "ping_ms": 461,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "ping_ms": 465,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=nfd32fa.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "nfd32fa.tidalcache.com",
+      "port": 443,
+      "country": "CH",
+      "ping_ms": 520,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=nc45968.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1129,28 +969,8 @@
       "server": "nc45968.tidalcache.com",
       "port": 443,
       "country": "SE",
-      "ping_ms": 486,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=nc57866.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "nc57866.tidalcache.com",
-      "port": 443,
-      "country": "PL",
-      "ping_ms": 508,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=18.221.119.211&port=443&secret=2d6db00dabe822b7535822c6cd61b4b8",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "18.221.119.211",
-      "port": 443,
-      "country": "US",
-      "ping_ms": 255,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 561,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n56ef96.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1159,28 +979,8 @@
       "server": "n56ef96.tidalcache.com",
       "port": 443,
       "country": "DE",
-      "ping_ms": 534,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=2407%3Ad140%3A1%3A100%3A9000%3A9000%3A37a9%3Ab203&port=4229&secret=dd3d81295812e731bef2e3d1b3e12399e2",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "2407:d140:1:100:9000:9000:37a9:b203",
-      "port": 4229,
-      "country": "SG",
-      "ping_ms": 362,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "186.246.4.174",
-      "port": 8443,
-      "country": "RU",
-      "ping_ms": 301,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 569,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n71204d.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1189,8 +989,18 @@
       "server": "n71204d.tidalcache.com",
       "port": 443,
       "country": "FI",
-      "ping_ms": 385,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 445,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=2407%3Ad140%3A1%3A100%3A9000%3A9000%3A37a9%3Ab203&port=4229&secret=dd3d81295812e731bef2e3d1b3e12399e2",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "2407:d140:1:100:9000:9000:37a9:b203",
+      "port": 4229,
+      "country": "SG",
+      "ping_ms": 373,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n31494a.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1199,8 +1009,8 @@
       "server": "n31494a.tidalcache.com",
       "port": 443,
       "country": "NL",
-      "ping_ms": 430,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 204,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=helix.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -1209,18 +1019,8 @@
       "server": "helix.lanternmoss.top",
       "port": 8443,
       "country": "DE",
-      "ping_ms": 254,
-      "checked": "2026-11-16T01:07:30+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n5ba556.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n5ba556.tidalcache.com",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 153,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 164,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n8cbdbf.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1229,18 +1029,18 @@
       "server": "n8cbdbf.tidalcache.com",
       "port": 443,
       "country": "PL",
-      "ping_ms": 283,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 162,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=ndac217.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=n5ba556.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "ndac217.tidalcache.com",
+      "server": "n5ba556.tidalcache.com",
       "port": 443,
-      "country": "US",
-      "ping_ms": 435,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "country": "NL",
+      "ping_ms": 488,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=nf239b1.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1249,28 +1049,8 @@
       "server": "nf239b1.tidalcache.com",
       "port": 443,
       "country": "NL",
-      "ping_ms": 181,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "tg6.turboass.live",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 147,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n7873ec.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n7873ec.tidalcache.com",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 158,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 484,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=vega.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275",
@@ -1279,18 +1059,8 @@
       "server": "vega.velvetoak.work",
       "port": 8443,
       "country": "FI",
-      "ping_ms": 172,
-      "checked": "2026-11-16T01:07:30+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=steady.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "steady.driftquill.click",
-      "port": 8443,
-      "country": "FI",
-      "ping_ms": 170,
-      "checked": "2026-11-16T01:07:32+00:00"
+      "ping_ms": 164,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=na47a65.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1299,8 +1069,8 @@
       "server": "na47a65.tidalcache.com",
       "port": 443,
       "country": "PL",
-      "ping_ms": 458,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "ping_ms": 232,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=cosmo.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275",
@@ -1309,8 +1079,38 @@
       "server": "cosmo.velvetoak.work",
       "port": 8443,
       "country": "FI",
-      "ping_ms": 168,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 179,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n7873ec.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n7873ec.tidalcache.com",
+      "port": 443,
+      "country": "NL",
+      "ping_ms": 671,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=nc57866.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "nc57866.tidalcache.com",
+      "port": 443,
+      "country": "PL",
+      "ping_ms": 656,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n154351.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n154351.tidalcache.com",
+      "port": 443,
+      "country": "NL",
+      "ping_ms": 656,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n4a9f8f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1319,8 +1119,8 @@
       "server": "n4a9f8f.tidalcache.com",
       "port": 443,
       "country": "DE",
-      "ping_ms": 484,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "ping_ms": 592,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n73dd23.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1329,18 +1129,8 @@
       "server": "n73dd23.tidalcache.com",
       "port": 443,
       "country": "FI",
-      "ping_ms": 459,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n28f52a.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n28f52a.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 115,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 466,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=garnet.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275",
@@ -1349,8 +1139,18 @@
       "server": "garnet.hollowfern.sbs",
       "port": 8443,
       "country": "DE",
-      "ping_ms": 162,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 155,
+      "checked": "2026-11-16T02:07:33+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n28f52a.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n28f52a.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 484,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
@@ -1359,8 +1159,18 @@
       "server": "awd.subaru-volga.com",
       "port": 443,
       "country": "RU",
-      "ping_ms": 300,
-      "checked": "2026-11-16T01:07:32+00:00"
+      "ping_ms": 396,
+      "checked": "2026-11-16T02:07:37+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=garnet.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "garnet.velvetoak.work",
+      "port": 8443,
+      "country": "FI",
+      "ping_ms": 163,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=playprime.mtpvideo.my&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
@@ -1373,24 +1183,14 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=garnet.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
+      "link": "https://t.me/proxy?server=ne9a969.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "garnet.velvetoak.work",
-      "port": 8443,
-      "country": "FI",
-      "ping_ms": 159,
-      "checked": "2026-11-16T01:07:30+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=206.1.100.238&port=443&secret=ee881e91f353b6f93483ee5b002cd854f77777772e636c6f7564666c6172652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "206.1.100.238",
+      "server": "ne9a969.tidalcache.com",
       "port": 443,
-      "country": "TR",
-      "ping_ms": 304,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "country": "DE",
+      "ping_ms": 168,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=edge.tidalcache.uk&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e756b",
@@ -1399,8 +1199,8 @@
       "server": "edge.tidalcache.uk",
       "port": 443,
       "country": "DE",
-      "ping_ms": 437,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "ping_ms": 443,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n391810.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1409,18 +1209,8 @@
       "server": "n391810.tidalcache.com",
       "port": 443,
       "country": "SE",
-      "ping_ms": 653,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=ne9a969.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "ne9a969.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 384,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 542,
+      "checked": "2026-11-16T02:07:35+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n75d3af.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1429,18 +1219,18 @@
       "server": "n75d3af.tidalcache.com",
       "port": 443,
       "country": "JP",
-      "ping_ms": 732,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 166,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=n78dcf0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=ndac217.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "n78dcf0.tidalcache.com",
+      "server": "ndac217.tidalcache.com",
       "port": 443,
-      "country": "NL",
-      "ping_ms": 429,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "country": "US",
+      "ping_ms": 647,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=valley.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275",
@@ -1449,8 +1239,58 @@
       "server": "valley.lanternmoss.top",
       "port": 8443,
       "country": "US",
-      "ping_ms": 442,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 164,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n5e855f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n5e855f.tidalcache.com",
+      "port": 443,
+      "country": "SE",
+      "ping_ms": 243,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=18.221.119.211&port=443&secret=2d6db00dabe822b7535822c6cd61b4b8",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "18.221.119.211",
+      "port": 443,
+      "country": "US",
+      "ping_ms": 591,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n78dcf0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n78dcf0.tidalcache.com",
+      "port": 443,
+      "country": "NL",
+      "ping_ms": 645,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=fern.quietfjord.click&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "fern.quietfjord.click",
+      "port": 8443,
+      "country": "US",
+      "ping_ms": 280,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=io.telehelp.top&port=443&secret=eef5e221dd3cab5ffe7c01ddd527032cbc64726976652e676f6f676c652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "io.telehelp.top",
+      "port": 443,
+      "country": "SE",
+      "ping_ms": 863,
+      "checked": "2026-11-16T02:07:36+00:00"
     },
     {
       "link": "https://t.me/proxy?server=dawn7.quietfjord.click&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
@@ -1463,14 +1303,14 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=n5e855f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=n59d2d3.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "n5e855f.tidalcache.com",
+      "server": "n59d2d3.tidalcache.com",
       "port": 443,
-      "country": "SE",
-      "ping_ms": 433,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "country": "NL",
+      "ping_ms": 128,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=82.27.116.203&port=20021&secret=eed1d73928000fa267ebbd256f3e0c632e7777772e6d6963726f736f66742e636f6d",
@@ -1479,48 +1319,18 @@
       "server": "82.27.116.203",
       "port": 20021,
       "country": "HK",
-      "ping_ms": 645,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 759,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=fern.quietfjord.click&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
+      "link": "https://t.me/proxy?server=vista.velvetoak.work&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "fern.quietfjord.click",
+      "server": "vista.velvetoak.work",
       "port": 8443,
-      "country": "US",
-      "ping_ms": 547,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n59d2d3.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n59d2d3.tidalcache.com",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 110,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n079f3c.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n079f3c.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 166,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n5c4f80.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n5c4f80.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 469,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "country": "SE",
+      "ping_ms": 881,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=moviestar42.mtproxy.me&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
@@ -1529,8 +1339,38 @@
       "server": "moviestar42.mtproxy.me",
       "port": 443,
       "country": "PL",
-      "ping_ms": 160,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 386,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=51.158.201.116&port=443&secret=dd083fe0c452e2407d835537872f097c54",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "51.158.201.116",
+      "port": 443,
+      "country": "NL",
+      "ping_ms": 664,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n079f3c.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n079f3c.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 647,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n5c4f80.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n5c4f80.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 599,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=ne71688.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1539,8 +1379,18 @@
       "server": "ne71688.tidalcache.com",
       "port": 443,
       "country": "AT",
-      "ping_ms": 155,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 597,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n6c66ab.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n6c66ab.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 568,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=quiet.hollowfern.sbs&port=8443&secret=ee845ff639d9f01634c9f1c4dfb079b29264726976652e676f6f676c652e636f6d",
@@ -1563,44 +1413,54 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=n6c66ab.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=45.159.210.88&port=8443&secret=ee249ff03ce9d855dcbadbbd17e7fba3a879616e6465782e7275",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "n6c66ab.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 500,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "server": "45.159.210.88",
+      "port": 8443,
+      "country": "RU",
+      "ping_ms": 967,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=89.108.83.197&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
+      "link": "https://t.me/proxy?server=w.prxtg.top&port=443&secret=eec15b39b08e586ff58acd45d81178bf1864726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "89.108.83.197",
+      "server": "w.prxtg.top",
+      "port": 443,
+      "country": "PL",
+      "ping_ms": 169,
+      "checked": "2026-11-16T02:07:35+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=steady.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "steady.driftquill.click",
+      "port": 8443,
+      "country": "FI",
+      "ping_ms": 863,
+      "checked": "2026-11-16T02:07:36+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eee06e1fa104262edaf6e277bd75a0f79c7075622e756c7472612d666173742e6363",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "pub.ultra-fast.cc",
       "port": 443,
       "country": "RU",
-      "ping_ms": 97,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 359,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=nbd5fd6.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=red.telehelp.top&port=443&secret=eefa58f5720fab51caf38ad09ee80c16d964726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "nbd5fd6.tidalcache.com",
+      "server": "red.telehelp.top",
       "port": 443,
-      "country": "DE",
-      "ping_ms": 785,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=212.227.184.30&port=28443&secret=ee20904625703c40cec8790512a00789cc696f6e6f732e6465",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "212.227.184.30",
-      "port": 28443,
-      "country": "DE",
-      "ping_ms": 110,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "country": "UA",
+      "ping_ms": 174,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564",
@@ -1613,14 +1473,14 @@
       "checked": "2026-11-16T01:07:30+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=82.27.116.205&port=20023&secret=eec6fe59571f2ccbc96ff8f061010ee7b97777772e6d6963726f736f66742e636f6d",
+      "link": "https://t.me/proxy?server=connect.mtproxy.me&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
       "kind": "mtproto",
-      "fake_tls": true,
-      "server": "82.27.116.205",
-      "port": 20023,
-      "country": "HK",
-      "ping_ms": 850,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "fake_tls": false,
+      "server": "connect.mtproxy.me",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 703,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n6f69ac.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1633,54 +1493,14 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eee06e1fa104262edaf6e277bd75a0f79c7075622e756c7472612d666173742e6363",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "pub.ultra-fast.cc",
-      "port": 443,
-      "country": "RU",
-      "ping_ms": 497,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=w.prxtg.top&port=443&secret=eec15b39b08e586ff58acd45d81178bf1864726976652e676f6f676c652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "w.prxtg.top",
-      "port": 443,
-      "country": "PL",
-      "ping_ms": 155,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=red.telehelp.top&port=443&secret=eefa58f5720fab51caf38ad09ee80c16d964726976652e676f6f676c652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "red.telehelp.top",
-      "port": 443,
-      "country": "UA",
-      "ping_ms": 175,
-      "checked": "2026-11-16T01:07:30+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n693ed0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n693ed0.tidalcache.com",
-      "port": 443,
-      "country": "FI",
-      "ping_ms": 426,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=playline.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
       "kind": "mtproto",
       "fake_tls": true,
       "server": "playline.tvoyasvoboda.help",
       "port": 443,
       "country": "PL",
-      "ping_ms": 158,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 180,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=newnvmb.telehelp.top&port=443&secret=ee6c0f8a0a46bb880b6ce93e8790a0528664726976652e676f6f676c652e636f6d",
@@ -1689,8 +1509,88 @@
       "server": "newnvmb.telehelp.top",
       "port": 443,
       "country": "UA",
-      "ping_ms": 169,
-      "checked": "2026-11-16T01:07:32+00:00"
+      "ping_ms": 326,
+      "checked": "2026-11-16T02:07:37+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "redflag.yazaebalsyadelatproxy.uk",
+      "port": 443,
+      "country": "NL",
+      "ping_ms": 171,
+      "checked": "2026-11-16T02:07:35+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "tg6.turboass.live",
+      "port": 443,
+      "country": "NL",
+      "ping_ms": 946,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n693ed0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n693ed0.tidalcache.com",
+      "port": 443,
+      "country": "FI",
+      "ping_ms": 510,
+      "checked": "2026-11-16T02:07:35+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=stream2449.mtproxy.me&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "stream2449.mtproxy.me",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 84,
+      "checked": "2026-11-16T02:07:33+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "redflag.yazaebalsyadelatproxy.uk",
+      "port": 443,
+      "country": "NL",
+      "ping_ms": 184,
+      "checked": "2026-11-16T02:07:35+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n6e889f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n6e889f.tidalcache.com",
+      "port": 443,
+      "country": "NL",
+      "ping_ms": 517,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=nb7c1c3.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "nb7c1c3.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 102,
+      "checked": "2026-11-16T02:07:33+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n2d725e.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n2d725e.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 907,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=apex.telehelp.top&port=443&secret=ee1a61b4dc45ac794038bb0bb26bcbd49d64726976652e676f6f676c652e636f6d",
@@ -1701,6 +1601,16 @@
       "country": "SE",
       "ping_ms": 165,
       "checked": "2026-11-16T01:07:43+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=teleclub.mtpvideo.my&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "teleclub.mtpvideo.my",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 84,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
@@ -1733,24 +1643,14 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "redflag.yazaebalsyadelatproxy.uk",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 186,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=moviestar42.mtproxy.me&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
       "kind": "mtproto",
       "fake_tls": false,
       "server": "moviestar42.mtproxy.me",
       "port": 443,
       "country": "PL",
-      "ping_ms": 100,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 703,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e636f2e756b",
@@ -1763,74 +1663,14 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=n6e889f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n6e889f.tidalcache.com",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 289,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=stream2449.mtproxy.me&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "stream2449.mtproxy.me",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 84,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "redflag.yazaebalsyadelatproxy.uk",
-      "port": 443,
-      "country": "NL",
-      "ping_ms": 165,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=82.27.116.206&port=20024&secret=ee26d5008287231fae8aaee9f1a3a4bef57777772e6d6963726f736f66742e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
       "server": "82.27.116.206",
       "port": 20024,
       "country": "HK",
-      "ping_ms": 608,
-      "checked": "2026-11-16T01:07:32+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=nb7c1c3.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "nb7c1c3.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 242,
-      "checked": "2026-11-16T01:07:27+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=teleclub.mtpvideo.my&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "teleclub.mtpvideo.my",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 368,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "ultraproxy.shop",
-      "port": 443,
-      "country": "RU",
-      "ping_ms": 89,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 712,
+      "checked": "2026-11-16T02:07:37+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n1d5d34.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1839,8 +1679,8 @@
       "server": "n1d5d34.tidalcache.com",
       "port": 443,
       "country": "DE",
-      "ping_ms": 436,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 109,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n0341c8.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1849,8 +1689,58 @@
       "server": "n0341c8.tidalcache.com",
       "port": 443,
       "country": "NL",
+      "ping_ms": 162,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=videobox53.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "videobox53.tvoyasvoboda.help",
+      "port": 443,
+      "country": "PL",
+      "ping_ms": 1004,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=static.b-telega.shop&port=443&secret=eec9f4da3fdfbfccdb13cd63d487b4804273746f72652e737465616d706f77657265642e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "static.b-telega.shop",
+      "port": 443,
+      "country": "LU",
+      "ping_ms": 136,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=edge1.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf65646765312e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "edge1.tidalcache.com",
+      "port": 443,
+      "country": "FI",
       "ping_ms": 163,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n37f7d6.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n37f7d6.tidalcache.com",
+      "port": 443,
+      "country": "PL",
+      "ping_ms": 446,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=nd26995.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "nd26995.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 437,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n944880.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1863,54 +1753,14 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=static.b-telega.shop&port=443&secret=eec9f4da3fdfbfccdb13cd63d487b4804273746f72652e737465616d706f77657265642e636f6d",
+      "link": "https://t.me/proxy?server=212.227.184.30&port=28443&secret=dd20904625703c40cec8790512a00789cc",
       "kind": "mtproto",
-      "fake_tls": true,
-      "server": "static.b-telega.shop",
-      "port": 443,
-      "country": "LU",
-      "ping_ms": 141,
-      "checked": "2026-11-16T01:07:28+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n37f7d6.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n37f7d6.tidalcache.com",
-      "port": 443,
-      "country": "PL",
-      "ping_ms": 111,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=nd26995.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "nd26995.tidalcache.com",
-      "port": 443,
+      "fake_tls": false,
+      "server": "212.227.184.30",
+      "port": 28443,
       "country": "DE",
-      "ping_ms": 104,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=edge1.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf65646765312e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "edge1.tidalcache.com",
-      "port": 443,
-      "country": "FI",
-      "ping_ms": 586,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=82.27.116.207&port=20025&secret=ee5f78ad693aad12dc1dc34bc3b7f1f5027777772e6d6963726f736f66742e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "82.27.116.207",
-      "port": 20025,
-      "country": "HK",
-      "ping_ms": 611,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "ping_ms": 163,
+      "checked": "2026-11-16T02:07:30+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n11bedf.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1919,28 +1769,8 @@
       "server": "n11bedf.tidalcache.com",
       "port": 443,
       "country": "SE",
-      "ping_ms": 460,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=212.227.184.30&port=28443&secret=dd20904625703c40cec8790512a00789cc",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "212.227.184.30",
-      "port": 28443,
-      "country": "DE",
-      "ping_ms": 44,
-      "checked": "2026-11-16T01:07:27+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n80fd72.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n80fd72.tidalcache.com",
-      "port": 443,
-      "country": "PL",
-      "ping_ms": 450,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 466,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=212.227.184.30&port=28443&secret=20904625703c40cec8790512a00789cc",
@@ -1949,8 +1779,28 @@
       "server": "212.227.184.30",
       "port": 28443,
       "country": "DE",
-      "ping_ms": 45,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "ping_ms": 47,
+      "checked": "2026-11-16T02:07:30+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=89.108.71.59&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "89.108.71.59",
+      "port": 443,
+      "country": "RU",
+      "ping_ms": 957,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n80fd72.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n80fd72.tidalcache.com",
+      "port": 443,
+      "country": "PL",
+      "ping_ms": 544,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=edge1.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -1959,8 +1809,18 @@
       "server": "edge1.tidalcache.com",
       "port": 443,
       "country": "PL",
-      "ping_ms": 697,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 188,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=82.27.116.207&port=20025&secret=ee5f78ad693aad12dc1dc34bc3b7f1f5027777772e6d6963726f736f66742e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "82.27.116.207",
+      "port": 20025,
+      "country": "HK",
+      "ping_ms": 799,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=formuse.new.tg&port=8880&secret=2cf6777b57d6b42378e1c727c339c63c",
@@ -1969,28 +1829,8 @@
       "server": "formuse.new.tg",
       "port": 8880,
       "country": "US",
-      "ping_ms": 316,
-      "checked": "2026-11-16T01:07:33+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=n1cf096.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "n1cf096.tidalcache.com",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 591,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=nae155f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "nae155f.tidalcache.com",
-      "port": 443,
-      "country": "PL",
-      "ping_ms": 848,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 313,
+      "checked": "2026-11-16T02:07:37+00:00"
     },
     {
       "link": "https://t.me/proxy?server=maraka16.ashwren.xyz&port=443&secret=ee912defad667a620d66dbf5fd0b2a1bcc62726f777365722e79616e6465782e7275",
@@ -1999,8 +1839,68 @@
       "server": "maraka16.ashwren.xyz",
       "port": 443,
       "country": "PL",
-      "ping_ms": 359,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 276,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=nae155f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "nae155f.tidalcache.com",
+      "port": 443,
+      "country": "PL",
+      "ping_ms": 535,
+      "checked": "2026-11-16T02:07:35+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n2dca5f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n2dca5f.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 527,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=zone88.sorrelbay.xyz&port=8443&secret=ee0a717e9ba394eff63a9943ff11493cc2706574726f766963682e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "zone88.sorrelbay.xyz",
+      "port": 8443,
+      "country": "PL",
+      "ping_ms": 187,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n44b555.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n44b555.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 514,
+      "checked": "2026-11-16T02:07:35+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=nac3596.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "nac3596.tidalcache.com",
+      "port": 443,
+      "country": "GB",
+      "ping_ms": 516,
+      "checked": "2026-11-16T02:07:35+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=3.149.86.139&port=8443&secret=ee7f19d4230173736615aca50d4a67aeaa7370656564746573742e6e6574",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "3.149.86.139",
+      "port": 8443,
+      "country": "US",
+      "ping_ms": 492,
+      "checked": "2026-11-16T02:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=n56f002.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
@@ -2013,54 +1913,54 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=n2dca5f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "n2dca5f.tidalcache.com",
+      "server": "ultraproxy.shop",
       "port": 443,
-      "country": "DE",
-      "ping_ms": 728,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "country": "RU",
+      "ping_ms": 923,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=n44b555.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=82.27.116.205&port=20023&secret=eec6fe59571f2ccbc96ff8f061010ee7b97777772e6d6963726f736f66742e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "n44b555.tidalcache.com",
+      "server": "82.27.116.205",
+      "port": 20023,
+      "country": "HK",
+      "ping_ms": 1038,
+      "checked": "2026-11-16T02:07:37+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=51.158.201.116&port=443&secret=083fe0c452e2407d835537872f097c54",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "51.158.201.116",
       "port": 443,
-      "country": "DE",
-      "ping_ms": 278,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "country": "NL",
+      "ping_ms": 926,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=nac3596.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=51.158.202.129&port=443&secret=083fe0c452e2407d835537872f097c54",
       "kind": "mtproto",
-      "fake_tls": true,
-      "server": "nac3596.tidalcache.com",
+      "fake_tls": false,
+      "server": "51.158.202.129",
       "port": 443,
-      "country": "GB",
-      "ping_ms": 427,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "country": "NL",
+      "ping_ms": 925,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=zone88.sorrelbay.xyz&port=8443&secret=ee0a717e9ba394eff63a9943ff11493cc2706574726f766963682e7275",
+      "link": "https://t.me/proxy?server=89.108.83.197&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "zone88.sorrelbay.xyz",
-      "port": 8443,
-      "country": "PL",
-      "ping_ms": 443,
-      "checked": "2026-11-16T01:07:30+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=3.149.86.139&port=8443&secret=ee7f19d4230173736615aca50d4a67aeaa7370656564746573742e6e6574",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "3.149.86.139",
-      "port": 8443,
-      "country": "US",
-      "ping_ms": 409,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "server": "89.108.83.197",
+      "port": 443,
+      "country": "RU",
+      "ping_ms": 966,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=vertex.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -2073,14 +1973,54 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=n6beae9.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=n9c17f5.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "n6beae9.tidalcache.com",
+      "server": "n9c17f5.tidalcache.com",
       "port": 443,
       "country": "PL",
-      "ping_ms": 785,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 547,
+      "checked": "2026-11-16T02:07:35+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n941633.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n941633.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 1009,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=3.125.160.55&port=443&secret=e8da6fda391b335dff2083634c9e7db5",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "3.125.160.55",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 925,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=51.158.202.129&port=443&secret=dd083fe0c452e2407d835537872f097c54",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "51.158.202.129",
+      "port": 443,
+      "country": "NL",
+      "ping_ms": 925,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=ganymi63.sorrelbay.xyz&port=8443&secret=ee0387ddee19bfe48499262c18214228ec617669746f2e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "ganymi63.sorrelbay.xyz",
+      "port": 8443,
+      "country": "PL",
+      "ping_ms": 176,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=winter.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
@@ -2093,14 +2033,24 @@
       "checked": "2026-11-16T01:07:45+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=n9c17f5.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "link": "https://t.me/proxy?server=82.202.238.110&port=443&secret=eef006c9ff8ab93b0505b6179c8d4dba1079616e6465782e7275",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "n9c17f5.tidalcache.com",
+      "server": "82.202.238.110",
       "port": 443,
-      "country": "PL",
-      "ping_ms": 1004,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "country": "RU",
+      "ping_ms": 1152,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=58737358dee675be48618b79ece66f8c",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "tg4.quki-hub.com",
+      "port": 9443,
+      "country": "NL",
+      "ping_ms": 921,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=nema75.kelpmoor.xyz&port=443&secret=ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275",
@@ -2123,14 +2073,34 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
+      "link": "https://t.me/proxy?server=stone.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "stone.velvetoak.work",
+      "port": 8443,
+      "country": "IL",
+      "ping_ms": 381,
+      "checked": "2026-11-16T02:07:36+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=vip.cerebium.ru&port=443&secret=ddfbf4d866b142abf6e762cc883807c1e3",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "vip.cerebium.ru",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 59,
+      "checked": "2026-11-16T02:07:33+00:00"
+    },
+    {
       "link": "https://t.me/proxy?server=82.27.116.194&port=20013&secret=ee43418135669a270405a71b24fa528b627777772e6d6963726f736f66742e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
       "server": "82.27.116.194",
       "port": 20013,
       "country": "HK",
-      "ping_ms": 607,
-      "checked": "2026-11-16T01:07:32+00:00"
+      "ping_ms": 1014,
+      "checked": "2026-11-16T02:07:37+00:00"
     },
     {
       "link": "https://t.me/proxy?server=119.28.42.171&port=443&secret=eee4945aa41d2f9561783c4d87e9257fcc617a7572652e6d6963726f736f66742e636f6d",
@@ -2139,18 +2109,38 @@
       "server": "119.28.42.171",
       "port": 443,
       "country": "HK",
-      "ping_ms": 659,
-      "checked": "2026-11-16T01:07:32+00:00"
+      "ping_ms": 1015,
+      "checked": "2026-11-16T02:07:36+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=ganymi63.sorrelbay.xyz&port=8443&secret=ee0387ddee19bfe48499262c18214228ec617669746f2e7275",
+      "link": "https://t.me/proxy?server=212.227.184.30&port=28443&secret=ee20904625703c40cec8790512a00789cc696f6e6f732e6465",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "ganymi63.sorrelbay.xyz",
-      "port": 8443,
+      "server": "212.227.184.30",
+      "port": 28443,
+      "country": "DE",
+      "ping_ms": 1108,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=151.115.61.136&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e",
+      "kind": "mtproto",
+      "fake_tls": false,
+      "server": "151.115.61.136",
+      "port": 38443,
       "country": "PL",
-      "ping_ms": 441,
-      "checked": "2026-11-16T01:07:30+00:00"
+      "ping_ms": 702,
+      "checked": "2026-11-16T02:07:31+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=206.1.100.238&port=443&secret=ee881e91f353b6f93483ee5b002cd854f77777772e636c6f7564666c6172652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "206.1.100.238",
+      "port": 443,
+      "country": "TR",
+      "ping_ms": 1109,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
@@ -2163,6 +2153,16 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
+      "link": "https://t.me/proxy?server=git.zhaopn.xyz&port=443&secret=ee22b3c977c97a3a27c585479d4952c0646769742e7a68616f706e2e78797a",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "git.zhaopn.xyz",
+      "port": 443,
+      "country": "RU",
+      "ping_ms": 383,
+      "checked": "2026-11-16T02:07:32+00:00"
+    },
+    {
       "link": "https://t.me/proxy?server=tolega24.tidalbirch.sbs&port=8443&secret=ee38f8e53c0cf60d4bf9b30013c901cbb164726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
@@ -2173,14 +2173,14 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=151.115.61.136&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e",
+      "link": "https://t.me/proxy?server=nbd5fd6.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
       "kind": "mtproto",
-      "fake_tls": false,
-      "server": "151.115.61.136",
-      "port": 38443,
-      "country": "PL",
-      "ping_ms": 68,
-      "checked": "2026-11-16T01:07:28+00:00"
+      "fake_tls": true,
+      "server": "nbd5fd6.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 1055,
+      "checked": "2026-11-16T02:07:36+00:00"
     },
     {
       "link": "https://t.me/proxy?server=north.velvetoak.work&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d",
@@ -2203,16 +2203,6 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=stone.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "stone.velvetoak.work",
-      "port": 8443,
-      "country": "IL",
-      "ping_ms": 152,
-      "checked": "2026-11-16T01:07:32+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=drift1.tidalbirch.sbs&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
@@ -2223,14 +2213,14 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=vip.cerebium.ru&port=443&secret=ddfbf4d866b142abf6e762cc883807c1e3",
+      "link": "https://t.me/proxy?server=cobalt.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275",
       "kind": "mtproto",
-      "fake_tls": false,
-      "server": "vip.cerebium.ru",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 66,
-      "checked": "2026-11-16T01:07:27+00:00"
+      "fake_tls": true,
+      "server": "cobalt.velvetoak.work",
+      "port": 8443,
+      "country": "FI",
+      "ping_ms": 165,
+      "checked": "2026-11-16T02:07:34+00:00"
     },
     {
       "link": "https://t.me/proxy?server=demi53.mosswren.vip&port=8443&secret=ee1402ee8c5f34b02f36621ec9bd51535264726976652e676f6f676c652e636f6d",
@@ -2241,6 +2231,16 @@
       "country": "PL",
       "ping_ms": 170,
       "checked": "2026-11-16T01:07:44+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=82.27.116.180&port=20003&secret=ee3c17480c7cd19a09da21606007da75047777772e6d6963726f736f66742e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "82.27.116.180",
+      "port": 20003,
+      "country": "HK",
+      "ping_ms": 1055,
+      "checked": "2026-11-16T02:07:36+00:00"
     },
     {
       "link": "https://t.me/proxy?server=velvet.hollowfern.sbs&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d",
@@ -2263,14 +2263,14 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=82.27.116.180&port=20003&secret=ee3c17480c7cd19a09da21606007da75047777772e6d6963726f736f66742e636f6d",
+      "link": "https://t.me/proxy?server=82.27.116.179&port=20002&secret=eea7ecf8f9053a29c6d6ad122e755f0d277777772e6d6963726f736f66742e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "82.27.116.180",
-      "port": 20003,
+      "server": "82.27.116.179",
+      "port": 20002,
       "country": "HK",
-      "ping_ms": 895,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "ping_ms": 1040,
+      "checked": "2026-11-16T02:07:37+00:00"
     },
     {
       "link": "https://t.me/proxy?server=stream.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -2283,14 +2283,14 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=82.27.116.179&port=20002&secret=eea7ecf8f9053a29c6d6ad122e755f0d277777772e6d6963726f736f66742e636f6d",
+      "link": "https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87",
       "kind": "mtproto",
-      "fake_tls": true,
-      "server": "82.27.116.179",
-      "port": 20002,
-      "country": "HK",
-      "ping_ms": 854,
-      "checked": "2026-11-16T01:07:31+00:00"
+      "fake_tls": false,
+      "server": "186.246.4.174",
+      "port": 8443,
+      "country": "RU",
+      "ping_ms": 980,
+      "checked": "2026-11-16T02:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=crystal.mosswren.vip&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
@@ -2303,14 +2303,34 @@
       "checked": "2026-11-16T01:07:43+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=git.zhaopn.xyz&port=443&secret=ee22b3c977c97a3a27c585479d4952c0646769742e7a68616f706e2e78797a",
+      "link": "https://t.me/proxy?server=reef.driftquill.click&port=8443&secret=ee845ff639d9f01634c9f1c4dfb079b29264726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
-      "server": "git.zhaopn.xyz",
+      "server": "reef.driftquill.click",
+      "port": 8443,
+      "country": "DE",
+      "ping_ms": 309,
+      "checked": "2026-11-16T02:07:36+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "shared.ddproxy.xyz",
       "port": 443,
       "country": "RU",
-      "ping_ms": 1423,
-      "checked": "2026-11-16T01:07:29+00:00"
+      "ping_ms": 96,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n6beae9.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n6beae9.tidalcache.com",
+      "port": 443,
+      "country": "PL",
+      "ping_ms": 1038,
+      "checked": "2026-11-16T02:07:36+00:00"
     },
     {
       "link": "https://t.me/proxy?server=aurora.tidelark.cc&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
@@ -2353,16 +2373,6 @@
       "checked": "2026-11-16T01:07:42+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=cobalt.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "cobalt.velvetoak.work",
-      "port": 8443,
-      "country": "FI",
-      "ping_ms": 291,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=secure.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
       "kind": "mtproto",
       "fake_tls": true,
@@ -2383,14 +2393,14 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=reef.driftquill.click&port=8443&secret=ee845ff639d9f01634c9f1c4dfb079b29264726976652e676f6f676c652e636f6d",
+      "link": "https://t.me/proxy?server=www.yaho.com.maroochia.co.uk&port=443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01",
       "kind": "mtproto",
-      "fake_tls": true,
-      "server": "reef.driftquill.click",
-      "port": 8443,
+      "fake_tls": false,
+      "server": "www.yaho.com.maroochia.co.uk",
+      "port": 443,
       "country": "DE",
-      "ping_ms": 160,
-      "checked": "2026-11-16T01:07:32+00:00"
+      "ping_ms": 53,
+      "checked": "2026-11-16T02:07:33+00:00"
     },
     {
       "link": "https://t.me/proxy?server=silver.velvetoak.work&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d",
@@ -2401,6 +2411,26 @@
       "country": "FI",
       "ping_ms": 169,
       "checked": "2026-11-16T01:07:44+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=push.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "push.driftquill.click",
+      "port": 8443,
+      "country": "FI",
+      "ping_ms": 377,
+      "checked": "2026-11-16T02:07:36+00:00"
+    },
+    {
+      "link": "https://t.me/proxy?server=n1cf096.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "n1cf096.tidalcache.com",
+      "port": 443,
+      "country": "DE",
+      "ping_ms": 1094,
+      "checked": "2026-11-16T02:07:36+00:00"
     },
     {
       "link": "https://t.me/proxy?server=titan.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -2423,6 +2453,16 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
+      "link": "https://t.me/proxy?server=82.27.116.193&port=20012&secret=eed5ce32832b7e83fa0331bdf44a29a5f57777772e6d6963726f736f66742e636f6d",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "82.27.116.193",
+      "port": 20012,
+      "country": "HK",
+      "ping_ms": 993,
+      "checked": "2026-11-16T02:07:37+00:00"
+    },
+    {
       "link": "https://t.me/proxy?server=sage.copperwren.click&port=8443&secret=ee6e1557d9ae190a4e74ab4084d9cffd2264726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
@@ -2433,46 +2473,6 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "awd.subaru-volga.com",
-      "port": 443,
-      "country": "RU",
-      "ping_ms": 588,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "shared.ddproxy.xyz",
-      "port": 443,
-      "country": "RU",
-      "ping_ms": 952,
-      "checked": "2026-11-16T01:07:31+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=82.27.116.193&port=20012&secret=eed5ce32832b7e83fa0331bdf44a29a5f57777772e6d6963726f736f66742e636f6d",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "82.27.116.193",
-      "port": 20012,
-      "country": "HK",
-      "ping_ms": 1456,
-      "checked": "2026-11-16T01:07:32+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=www.yaho.com.maroochia.co.uk&port=443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01",
-      "kind": "mtproto",
-      "fake_tls": false,
-      "server": "www.yaho.com.maroochia.co.uk",
-      "port": 443,
-      "country": "DE",
-      "ping_ms": 57,
-      "checked": "2026-11-16T01:07:29+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=tundra.lanternmoss.top&port=8443&secret=ee845ff639d9f01634c9f1c4dfb079b29264726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
@@ -2481,16 +2481,6 @@
       "country": "FI",
       "ping_ms": 171,
       "checked": "2026-11-16T01:07:43+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=push.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "push.driftquill.click",
-      "port": 8443,
-      "country": "FI",
-      "ping_ms": 154,
-      "checked": "2026-11-16T01:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=crest.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275",
@@ -2673,16 +2663,6 @@
       "checked": "2026-11-16T01:07:44+00:00"
     },
     {
-      "link": "https://t.me/socks?server=64.227.104.105&port=1080&user=admin&pass=admin",
-      "kind": "socks5",
-      "fake_tls": false,
-      "server": "64.227.104.105",
-      "port": 1080,
-      "country": "US",
-      "ping_ms": 876,
-      "checked": "2026-11-16T01:07:32+00:00"
-    },
-    {
       "link": "https://t.me/proxy?server=sage.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
       "kind": "mtproto",
       "fake_tls": true,
@@ -2711,16 +2691,6 @@
       "country": "FI",
       "ping_ms": 118,
       "checked": "2026-11-16T01:07:45+00:00"
-    },
-    {
-      "link": "https://t.me/socks?server=8.217.208.190&port=3060&user=123&pass=123",
-      "kind": "socks5",
-      "fake_tls": false,
-      "server": "8.217.208.190",
-      "port": 3060,
-      "country": "HK",
-      "ping_ms": 892,
-      "checked": "2026-11-16T01:07:32+00:00"
     },
     {
       "link": "https://t.me/proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
@@ -2783,6 +2753,16 @@
       "checked": "2026-11-16T01:07:56+00:00"
     },
     {
+      "link": "https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "awd.subaru-volga.com",
+      "port": 443,
+      "country": "RU",
+      "ping_ms": 1272,
+      "checked": "2026-11-16T02:07:37+00:00"
+    },
+    {
       "link": "https://t.me/proxy?server=aurora.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
       "kind": "mtproto",
       "fake_tls": true,
@@ -2799,8 +2779,8 @@
       "server": "188.166.178.163",
       "port": 1088,
       "country": "SG",
-      "ping_ms": 782,
-      "checked": "2026-11-16T01:07:32+00:00"
+      "ping_ms": 1109,
+      "checked": "2026-11-16T02:07:37+00:00"
     },
     {
       "link": "https://t.me/proxy?server=ocean.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275",
@@ -3113,44 +3093,14 @@
       "checked": "2026-11-16T01:07:56+00:00"
     },
     {
-      "link": "https://t.me/socks?server=101.36.124.157&port=1080&user=123&pass=123",
-      "kind": "socks5",
-      "fake_tls": false,
-      "server": "101.36.124.157",
-      "port": 1080,
-      "country": "HK",
-      "ping_ms": 1109,
-      "checked": "2026-11-16T01:07:33+00:00"
-    },
-    {
       "link": "https://t.me/socks?server=8.216.5.89&port=8888&user=123456&pass=654321",
       "kind": "socks5",
       "fake_tls": false,
       "server": "8.216.5.89",
       "port": 8888,
       "country": "JP",
-      "ping_ms": 1266,
-      "checked": "2026-11-16T01:07:33+00:00"
-    },
-    {
-      "link": "https://t.me/socks?server=165.154.23.8&port=1080&user=123&pass=123",
-      "kind": "socks5",
-      "fake_tls": false,
-      "server": "165.154.23.8",
-      "port": 1080,
-      "country": "HK",
-      "ping_ms": 1117,
-      "checked": "2026-11-16T01:07:33+00:00"
-    },
-    {
-      "link": "https://t.me/socks?server=101.36.109.158&port=1080&user=123&pass=123",
-      "kind": "socks5",
-      "fake_tls": false,
-      "server": "101.36.109.158",
-      "port": 1080,
-      "country": "HK",
-      "ping_ms": 1118,
-      "checked": "2026-11-16T01:07:33+00:00"
+      "ping_ms": 1317,
+      "checked": "2026-11-16T02:07:38+00:00"
     },
     {
       "link": "https://t.me/proxy?server=coral.lanternmoss.top&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d",
@@ -3163,14 +3113,34 @@
       "checked": "2026-11-16T01:07:57+00:00"
     },
     {
-      "link": "https://t.me/socks?server=101.36.126.84&port=1080&user=123&pass=123",
+      "link": "https://t.me/socks?server=101.36.124.157&port=1080&user=123&pass=123",
       "kind": "socks5",
       "fake_tls": false,
-      "server": "101.36.126.84",
+      "server": "101.36.124.157",
       "port": 1080,
       "country": "HK",
-      "ping_ms": 1103,
-      "checked": "2026-11-16T01:07:33+00:00"
+      "ping_ms": 1539,
+      "checked": "2026-11-16T02:07:38+00:00"
+    },
+    {
+      "link": "https://t.me/socks?server=152.32.192.43&port=1080&user=123&pass=123",
+      "kind": "socks5",
+      "fake_tls": false,
+      "server": "152.32.192.43",
+      "port": 1080,
+      "country": "HK",
+      "ping_ms": 1128,
+      "checked": "2026-11-16T02:07:38+00:00"
+    },
+    {
+      "link": "https://t.me/socks?server=8.217.208.190&port=3060&user=123&pass=123",
+      "kind": "socks5",
+      "fake_tls": false,
+      "server": "8.217.208.190",
+      "port": 3060,
+      "country": "HK",
+      "ping_ms": 1407,
+      "checked": "2026-11-16T02:07:37+00:00"
     },
     {
       "link": "https://t.me/socks?server=118.193.45.130&port=1080&user=123&pass=123",
@@ -3179,8 +3149,18 @@
       "server": "118.193.45.130",
       "port": 1080,
       "country": "HK",
-      "ping_ms": 1286,
-      "checked": "2026-11-16T01:07:33+00:00"
+      "ping_ms": 1289,
+      "checked": "2026-11-16T02:07:38+00:00"
+    },
+    {
+      "link": "https://t.me/socks?server=165.154.23.8&port=1080&user=123&pass=123",
+      "kind": "socks5",
+      "fake_tls": false,
+      "server": "165.154.23.8",
+      "port": 1080,
+      "country": "HK",
+      "ping_ms": 1380,
+      "checked": "2026-11-16T02:07:37+00:00"
     },
     {
       "link": "https://t.me/proxy?server=zolole21.larchmere.xyz&port=8443&secret=eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275",
@@ -3193,14 +3173,14 @@
       "checked": "2026-11-16T01:07:45+00:00"
     },
     {
-      "link": "https://t.me/socks?server=152.32.192.43&port=1080&user=123&pass=123",
+      "link": "https://t.me/socks?server=101.36.126.84&port=1080&user=123&pass=123",
       "kind": "socks5",
       "fake_tls": false,
-      "server": "152.32.192.43",
+      "server": "101.36.126.84",
       "port": 1080,
       "country": "HK",
-      "ping_ms": 1304,
-      "checked": "2026-11-16T01:07:33+00:00"
+      "ping_ms": 1590,
+      "checked": "2026-11-16T02:07:38+00:00"
     },
     {
       "link": "https://t.me/socks?server=165.154.22.211&port=1080&user=123&pass=123",
@@ -3209,8 +3189,8 @@
       "server": "165.154.22.211",
       "port": 1080,
       "country": "HK",
-      "ping_ms": 1341,
-      "checked": "2026-11-16T01:07:33+00:00"
+      "ping_ms": 1337,
+      "checked": "2026-11-16T02:07:38+00:00"
     },
     {
       "link": "https://t.me/socks?server=165.154.20.162&port=1080&user=123&pass=123",
@@ -3219,8 +3199,8 @@
       "server": "165.154.20.162",
       "port": 1080,
       "country": "HK",
-      "ping_ms": 1316,
-      "checked": "2026-11-16T01:07:33+00:00"
+      "ping_ms": 1342,
+      "checked": "2026-11-16T02:07:38+00:00"
     },
     {
       "link": "https://t.me/socks?server=101.36.121.221&port=1080&user=123&pass=123",
@@ -3229,8 +3209,18 @@
       "server": "101.36.121.221",
       "port": 1080,
       "country": "HK",
-      "ping_ms": 1263,
-      "checked": "2026-11-16T01:07:33+00:00"
+      "ping_ms": 1290,
+      "checked": "2026-11-16T02:07:38+00:00"
+    },
+    {
+      "link": "https://t.me/socks?server=101.36.109.158&port=1080&user=123&pass=123",
+      "kind": "socks5",
+      "fake_tls": false,
+      "server": "101.36.109.158",
+      "port": 1080,
+      "country": "HK",
+      "ping_ms": 1698,
+      "checked": "2026-11-16T02:07:38+00:00"
     },
     {
       "link": "https://t.me/socks?server=152.32.215.230&port=1080&user=123&pass=123",
@@ -3239,8 +3229,8 @@
       "server": "152.32.215.230",
       "port": 1080,
       "country": "HK",
-      "ping_ms": 1289,
-      "checked": "2026-11-16T01:07:33+00:00"
+      "ping_ms": 1424,
+      "checked": "2026-11-16T02:07:38+00:00"
     },
     {
       "link": "https://t.me/socks?server=152.32.186.245&port=1080&user=123&pass=123",
@@ -3249,8 +3239,18 @@
       "server": "152.32.186.245",
       "port": 1080,
       "country": "HK",
-      "ping_ms": 1279,
-      "checked": "2026-11-16T01:07:33+00:00"
+      "ping_ms": 1375,
+      "checked": "2026-11-16T02:07:38+00:00"
+    },
+    {
+      "link": "https://t.me/socks?server=64.227.104.105&port=1080&user=admin&pass=admin",
+      "kind": "socks5",
+      "fake_tls": false,
+      "server": "64.227.104.105",
+      "port": 1080,
+      "country": "US",
+      "ping_ms": 1228,
+      "checked": "2026-11-16T02:07:37+00:00"
     },
     {
       "link": "https://t.me/proxy?server=north.hollowfern.sbs&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -3333,6 +3333,16 @@
       "checked": "2026-11-16T01:07:45+00:00"
     },
     {
+      "link": "https://t.me/proxy?server=zonyzo22.sorrelbay.xyz&port=8443&secret=ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275",
+      "kind": "mtproto",
+      "fake_tls": true,
+      "server": "zonyzo22.sorrelbay.xyz",
+      "port": 8443,
+      "country": "PL",
+      "ping_ms": 169,
+      "checked": "2026-11-16T02:07:34+00:00"
+    },
+    {
       "link": "https://t.me/proxy?server=lomizo36.fernlark.xyz&port=8443&secret=ee75e4121a6e924021e299b009a9fa16f964726976652e676f6f676c652e636f6d",
       "kind": "mtproto",
       "fake_tls": true,
@@ -3401,16 +3411,6 @@
       "country": "US",
       "ping_ms": 163,
       "checked": "2026-11-16T01:07:43+00:00"
-    },
-    {
-      "link": "https://t.me/proxy?server=zonyzo22.sorrelbay.xyz&port=8443&secret=ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275",
-      "kind": "mtproto",
-      "fake_tls": true,
-      "server": "zonyzo22.sorrelbay.xyz",
-      "port": 8443,
-      "country": "PL",
-      "ping_ms": 472,
-      "checked": "2026-11-16T01:07:31+00:00"
     },
     {
       "link": "https://t.me/proxy?server=star.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
