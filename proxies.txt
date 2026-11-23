@@ -4,7 +4,6 @@ https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=dd58737358dee675be48
 https://t.me/proxy?server=51.158.202.129&port=443&secret=dd083fe0c452e2407d835537872f097c54
 https://t.me/proxy?server=free.tprox.net&port=443&secret=dd583de2881533667b60a718e9bf8049e9
 https://t.me/proxy?server=51.21.149.196&port=443&secret=e8da6fda391b335dff2083634c9e7db5
-https://t.me/proxy?server=13.60.149.64&port=443&secret=eedcac82acd839d448c1aa3d2cae4191cc6b6b6c63616b6c732e6972
 https://t.me/proxy?server=51.158.202.65&port=443&secret=083fe0c452e2407d835537872f097c54
 https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=58737358dee675be48618b79ece66f8c
 https://t.me/proxy?server=212.47.236.50&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e
@@ -498,3 +497,4 @@ https://t.me/proxy?server=behind.thedawnmist.ir&port=8443&secret=ddaec118a8531d7
 https://t.me/proxy?server=vista.tealbriar.xyz&port=8443&secret=eed8e23b55798e53b64877d42e6ef94a3f64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=rocket.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275
 https://t.me/proxy?server=topaz.driftquill.click&port=8443&secret=ee845ff639d9f01634c9f1c4dfb079b29264726976652e676f6f676c652e636f6d
+https://t.me/proxy?server=pine.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275
