@@ -3,8 +3,8 @@ https://t.me/proxy?server=portfolio.hrscp.net&port=8443&secret=ee07955a5d55074ab
 https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=dd58737358dee675be48618b79ece66f8c
 https://t.me/proxy?server=51.158.202.129&port=443&secret=dd083fe0c452e2407d835537872f097c54
 https://t.me/proxy?server=free.tprox.net&port=443&secret=dd583de2881533667b60a718e9bf8049e9
-https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=58737358dee675be48618b79ece66f8c
 https://t.me/proxy?server=51.21.149.196&port=443&secret=e8da6fda391b335dff2083634c9e7db5
+https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=58737358dee675be48618b79ece66f8c
 https://t.me/proxy?server=tg-caax4eer.q80.ru&port=9443&secret=ee9cd9f3058380f86f43494292c59b3beb7362692e7362657262616e6b2e7275
 https://t.me/proxy?server=13.60.149.64&port=443&secret=eedcac82acd839d448c1aa3d2cae4191cc6b6b6c63616b6c732e6972
 https://t.me/proxy?server=51.158.202.65&port=443&secret=083fe0c452e2407d835537872f097c54
