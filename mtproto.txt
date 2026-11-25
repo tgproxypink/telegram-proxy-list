@@ -12,8 +12,8 @@ https://t.me/proxy?server=onyx.hollowfern.sbs&port=8443&secret=eeb68b66e59328f05
 https://t.me/proxy?server=platinum.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=steady.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=titan.velvetoak.work&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d
-https://t.me/proxy?server=3.125.160.55&port=443&secret=e8da6fda391b335dff2083634c9e7db5
 https://t.me/proxy?server=ewe.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=3.125.160.55&port=443&secret=e8da6fda391b335dff2083634c9e7db5
 https://t.me/proxy?server=cobalt.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=ultra.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=axis.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
@@ -287,7 +287,6 @@ https://t.me/proxy?server=axis.driftquill.click&port=8443&secret=ee2b6eb790d613a
 https://t.me/proxy?server=viny39.mosswren.vip&port=8443&secret=eebe679b4dc0e994889bb8293fc71ba1a8786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=tolera44.copperwren.click&port=8443&secret=ee24c8636b7e946779a023ee708370719b786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=crystal.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=glacier.driftquill.click&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=ember.quietfjord.click&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=echo.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=breezeridge.heronglade.space&port=8443&secret=eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275
@@ -303,6 +302,7 @@ https://t.me/proxy?server=anchor.velvetoak.work&port=8443&secret=ee845ff639d9f01
 https://t.me/proxy?server=lunar.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=cobalt.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=twilight.tidelark.cc&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=glacier.driftquill.click&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=ivory.quietfjord.click&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=blaze.copperwren.click&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=direct.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
