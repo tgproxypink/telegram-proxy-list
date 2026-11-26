@@ -337,8 +337,8 @@ https://t.me/proxy?server=ocean.hollowfern.sbs&port=8443&secret=eeb68b66e59328f0
 https://t.me/proxy?server=fast2.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=coral.lanternmoss.top&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=zephyr.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=kavito20.quietfjord.click&port=8443&secret=ee24c8636b7e946779a023ee708370719b706574726f766963682e7275
 https://t.me/proxy?server=fresh.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=kavito20.quietfjord.click&port=8443&secret=ee24c8636b7e946779a023ee708370719b706574726f766963682e7275
 https://t.me/proxy?server=rizolo89.sorrelbay.xyz&port=8443&secret=ee71184e2ac505ed5840dd5a00da3318f3617669746f2e7275
 https://t.me/proxy?server=dawn.foxglade.xyz&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=brook.lanternmoss.top&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d
