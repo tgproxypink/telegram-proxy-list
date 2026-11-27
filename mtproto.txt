@@ -22,9 +22,9 @@ https://t.me/proxy?server=quiet.hollowfern.sbs&port=8443&secret=ee845ff639d9f016
 https://t.me/proxy?server=seven.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=orca.driftquill.click&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=raven.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=shield2.velvetoak.work&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=arrow.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=planet.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=shield2.velvetoak.work&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=zephyr.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=stable.velvetoak.work&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=anchor.hollowfern.sbs&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
@@ -41,8 +41,8 @@ https://t.me/proxy?server=phoenix.hollowfern.sbs&port=8443&secret=eeea71e9682cc0
 https://t.me/proxy?server=tide.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=flint.driftquill.click&port=8443&secret=ee845ff639d9f01634c9f1c4dfb079b29264726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=cloud.velvetoak.work&port=8443&secret=ee3af44f54fb6bb24e664d38ffb1a7811964726976652e676f6f676c652e636f6d
-https://t.me/proxy?server=lori58.quillmarsh.xyz&port=8443&secret=eed55fb51ca705b72784df27f1fbe1619164726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=drift7.foxglade.xyz&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d
+https://t.me/proxy?server=lori58.quillmarsh.xyz&port=8443&secret=eed55fb51ca705b72784df27f1fbe1619164726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=vega.driftquill.click&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=risuto15.kelpmoor.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486617669746f2e7275
 https://t.me/proxy?server=pulse3.hollowfern.sbs&port=8443&secret=ee845ff639d9f01634c9f1c4dfb079b29264726976652e676f6f676c652e636f6d
